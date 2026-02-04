@@ -48,6 +48,50 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wizard-riches-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![WIZARD RICHES](images/wizard-riches-1.jpg)
+
+### Image 2
+
+![WIZARD RICHES](images/wizard-riches-2.jpg)
+
+### Image 3
+
+![WIZARD RICHES](images/wizard-riches-3.jpg)
+
+**Description:** This is an excellent play because all of the symbols with the glowing purple borders will turn wild on the next spin.
+
+### Image 4
+
+![WIZARD RICHES](images/wizard-riches-4.jpg)
+
+**Description:** This is a play because there are two empty shelves within the purple border on the right side bookcase.
+
+### Image 5
+
+![WIZARD RICHES](images/wizard-riches-5.jpg)
+
+**Description:** This is NOT a play because the 4x multiplier will disappear next spin (because the shelves within the purple border are full).
+
+### Image 6
+
+![WIZARD RICHES](images/wizard-riches-6.jpg)
+
+**Description:** This is a play because the next win will be multiplied by 5x.
+
+### Image 7
+
+![WIZARD RICHES](images/wizard-riches-7.jpg)
+
+**Description:** This is NOT a play because the 5x multiplier will disappear next spin.
+
 ## How The Advantage Works
 
 Wizard Riches has **multiple advantage opportunities** (complicated but lucrative):

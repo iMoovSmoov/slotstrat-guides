@@ -33,6 +33,30 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/epic-lion--sacred-deer-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![EPIC LION / SACRED DEER](images/epic-lion--sacred-deer-1.jpg)
+
+### Image 2
+
+![EPIC LION / SACRED DEER](images/epic-lion--sacred-deer-3.jpg)
+
+### Image 3
+
+![EPIC LION / SACRED DEER](images/epic-lion--sacred-deer-4.jpg)
+
+### Image 4
+
+![EPIC LION / SACRED DEER](images/epic-lion--sacred-deer-5.jpg)
+
+**Description:** Sacred Deer plays the same as Epic Lion for advantage purposes.
+
 ## How The Advantage Works
 
 Epic Lion / Sacred Deer features **expanding reel heights**:

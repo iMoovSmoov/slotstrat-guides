@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/cai-fu-long-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Cai Fu Long](images/cai-fu-long-1.jpg)
+
+### Image 2
+
+![Cai Fu Long](images/cai-fu-long-2.jpg)
+
+**Description:** Only one more coin is needed to trigger the hold & spin feature. But even if you don’t trigger the feature here, the three coins in a row will give a nice line hit when the coins turn wild.
+
+### Image 3
+
+![Cai Fu Long](images/cai-fu-long-3.jpg)
+
+**Description:** This was a solid line hit with the five wild coins on the final spin.
+
 ## How The Advantage Works
 
 Cai Fu Long features **coin collection** that turns wild or triggers hold & spin:

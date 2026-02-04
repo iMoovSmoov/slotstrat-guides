@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/pub-series-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![PUB SERIES](images/pub-series-1.jpg)
+
+### Image 2
+
+![PUB SERIES](images/pub-series-4.jpg)
+
+**Description:** On Anastasia’s Tavern, the sticky wild at the bottom of reel four will be around for one more spin.
+
+### Image 3
+
+![PUB SERIES](images/pub-series-5.jpg)
+
+**Description:** On Isabella’s Tequileria, the wild in reel three will disappear next spin, while the wild in reel four will last for one more spin.
+
+### Image 4
+
+![PUB SERIES](images/pub-series-6.jpg)
+
+**Description:** This is a solid play on Kaleigh’s Pub—each wild will persist for two additional spins.
+
+### Image 5
+
+![PUB SERIES](images/pub-series-7.jpg)
+
+**Description:** On Sofia’s Cellar, the wilds in reel four will disappear next spin, so don’t play in this situation.
+
 ## How The Advantage Works
 
 The Pub Series features **sticky wilds + on-the-house meter**:

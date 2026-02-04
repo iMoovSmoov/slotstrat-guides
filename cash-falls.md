@@ -48,6 +48,52 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/cash-falls-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![CASH FALLS](images/cash-falls-1.jpg)
+
+### Image 2
+
+![CASH FALLS](images/cash-falls-2.jpg)
+
+**Description:** *The bet pad will have glowing blue outlines around the bet levels that contain reels that are one coin away.
+
+### Image 3
+
+![CASH FALLS](images/cash-falls-3.jpg)
+
+**Description:** This is a solid play with two reels that are one coin away.
+
+### Image 4
+
+![CASH FALLS](images/cash-falls-4.jpg)
+
+**Description:** Having three reels that are one coin away is always a play.
+
+### Image 5
+
+![CASH FALLS](images/cash-falls-5.jpg)
+
+**Description:** I had three chances to land one more coin to fill reel five, where I would have won $791. Unfortunately, it didn’t work out (which is often the case with this game).
+
+### Image 6
+
+![CASH FALLS](images/cash-falls-6.jpg)
+
+**Description:** First and second reels that are one coin away like this are rarely worth playing.
+
+### Image 7
+
+![CASH FALLS](images/cash-falls-7.jpeg)
+
+**Description:** That’s a newer version that is a little different. The fire link balls are valued at roughly 35x, so you can be a bit more aggressive chasing those.
+
 ## How The Advantage Works
 
 Cash Falls features **coin collection** on each reel:

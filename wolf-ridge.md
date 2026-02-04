@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wolf-ridge-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![WOLF RIDGE](images/wolf-ridge-1.jpg)
+
+### Image 2
+
+![WOLF RIDGE](images/wolf-ridge-2.jpg)
+
+### Image 3
+
+![WOLF RIDGE](images/wolf-ridge-3.jpg)
+
+**Description:** This is an excellent play. On the next spin, the blue $250 prize will shift into the Alpha reel, where it will get a 3x multiplier, making it a potential win of $750 on a $3.75 bet.
+
+### Image 4
+
+![WOLF RIDGE](images/wolf-ridge-4.jpg)
+
+**Description:** This was a $37.50 investment (notice the 10¢ denom) for a chance at an $1,800 win.
+
 ## How The Advantage Works
 
 Wolf Ridge features a **Prize Disk** above the reels:

@@ -28,6 +28,26 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/miss-kitty-wild-ride-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Miss Kitty Wild Ride](images/miss-kitty-wild-ride-1.jpg)
+
+### Image 2
+
+![Miss Kitty Wild Ride](images/miss-kitty-wild-ride-2.jpg)
+
+**Description:** The Wild Ride Bonus is not active—do not play in this situation.
+
+### Image 3
+
+![Miss Kitty Wild Ride](images/miss-kitty-wild-ride-3.jpg)
+
 ## How The Advantage Works
 
 Miss Kitty Wild Ride / Zorro Wild Ride features the **Wild Ride Bonus**:

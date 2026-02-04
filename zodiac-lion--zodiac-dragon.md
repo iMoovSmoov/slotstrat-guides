@@ -63,6 +63,66 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/zodiac-lion--zodiac-dragon-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-1.jpg)
+
+### Image 2
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-2.jpg)
+
+**Description:** Attempting to connect gold frames on the left side to gold frames on the right side is risky. Scroll down to see the results of this attempt.
+
+### Image 3
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-3.jpg)
+
+### Image 4
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-4.jpg)
+
+**Description:** I would definitely still play this, but having holes in the middle like this really cut into the payout.
+
+### Image 5
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-5.jpg)
+
+**Description:** I considered playing this but decided to pass. If there was one more gold frame connecting horizontally on either the top or bottom clump, then I would play.
+
+### Image 6
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-6.jpg)
+
+**Description:** Avoid plays like this where the gold frames are concentrated in reels three, four and five.
+
+### Image 7
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-7.jpg)
+
+**Description:** Watch for plays like this that are the result of the previous player cashing out after the Lion Spin Bonus. Scroll down to see what the next spin will look like.
+
+### Image 8
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-8.jpg)
+
+**Description:** The leftover lion heads from the Lion Spin Bonus are now gold frames.
+
+### Image 9
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-9.jpg)
+
+### Image 10
+
+![ZODIAC LION / ZODIAC DRAGON](images/zodiac-lion--zodiac-dragon-10.jpg)
+
+**Description:** Zodiac Dragon isn’t nearly as common as Zodiac Lion, but it plays exactly the same.
+
 ## How The Advantage Works
 
 Zodiac Lion / Zodiac Dragon features **persistent gold frames**:

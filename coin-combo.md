@@ -53,6 +53,58 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/coin-combo-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![COIN COMBO](images/coin-combo-1.jpg)
+
+### Image 2
+
+![COIN COMBO](images/coin-combo-2.jpg)
+
+**Description:** **Some of the denominations have extra plays you can check—a lot of others don’t bother to cycle through all of these.
+
+### Image 3
+
+![COIN COMBO](images/coin-combo-3.jpg)
+
+**Description:** This is a solid play with one wild each in reels three, four and five. The empty blue coin bowl on the left is just as likely to hit as the full green bowl on the right.
+
+### Image 4
+
+![COIN COMBO](images/coin-combo-4.jpg)
+
+**Description:** The glowing purple Chinese characters function as wilds. I would skip this play with two wilds in reel four, especially on a large bet
+
+### Image 5
+
+![COIN COMBO](images/coin-combo-5.jpg)
+
+**Description:** The bonus feature can pay very well, especially if you trigger multiple bowls of coins at once.
+
+### Image 6
+
+![COIN COMBO](images/coin-combo-6.jpg)
+
+**Description:** Don’t shy away from the higher denoms if you have the bankroll—you have the potential for big wins such as this, while your investment is usually just one or two spins.
+
+### Image 7
+
+![COIN COMBO](images/coin-combo-7.jpg)
+
+**Description:** This is another solid win on a high denom bet.
+
+### Image 8
+
+![COIN COMBO](images/coin-combo-8.jpg)
+
+**Description:** This is an excellent walk-up play that has the potential for a big win.
+
 ## How The Advantage Works
 
 Coin Combo: Hurricane Horse / Perfect Peacock features **persistent wilds** on reels 3, 4, and 5:

@@ -38,6 +38,36 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/dice-seeker-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![DICE SEEKER](images/dice-seeker-1.jpg)
+
+### Image 2
+
+![DICE SEEKER](images/dice-seeker-2.jpg)
+
+### Image 3
+
+![DICE SEEKER](images/dice-seeker-3.jpg)
+
+### Image 4
+
+![DICE SEEKER](images/dice-seeker-4.jpg)
+
+**Description:** This is an excellent play with two of the large characters getting close to hitting (the large ones begin with 16 hit points).
+
+### Image 5
+
+![DICE SEEKER](images/dice-seeker-5.jpg)
+
+**Description:** You can cycle through the bet levels (without putting money in) by using the arrows in the menu.
+
 ## How The Advantage Works
 
 Dice Seeker (Flappers & Dappers / Heroes & Villains / Viking Invasion) features **rectangles with hit points** above the reels:

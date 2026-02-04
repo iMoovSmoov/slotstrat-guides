@@ -43,6 +43,46 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/golden-dragons-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![GOLDEN DRAGON](images/golden-dragons-1.jpg)
+
+### Image 2
+
+![GOLDEN DRAGON](images/golden-dragons-2.jpg)
+
+**Description:** This is a solid play with four of the five pots containing jackpot wheel spins.
+
+### Image 3
+
+![GOLDEN DRAGON](images/golden-dragons-3.jpg)
+
+**Description:** Plays like this may be tempting, but you have a 40% chance of hitting one of the 8 free games pots, which is too risky. All of the pots will be reset with random prizes after one is triggered.
+
+### Image 4
+
+![GOLDEN DRAGON](images/golden-dragons-4.jpg)
+
+**Description:** This is an excellent play (but still extremely volatile).
+
+### Image 5
+
+![GOLDEN DRAGON](images/golden-dragons-5.jpg)
+
+**Description:** This is a worst possible scenario where all pots include the lowest prize available.
+
+### Image 6
+
+![GOLDEN DRAGON](images/golden-dragons-6.jpg)
+
+**Description:** The red pot with 24 free games is very valuable, but you only have a one in five chance of hitting it.
+
 ## How The Advantage Works
 
 Golden Dragon / Golden Guardian features **5 pots** at the bottom of each reel:

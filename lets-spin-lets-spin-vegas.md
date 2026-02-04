@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/lets-spin--lets-spin-vegas-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Let's Spin / Let's Spin Vegas](images/lets-spin--lets-spin-vegas-1.jpg)
+
+### Image 2
+
+![Let's Spin / Let's Spin Vegas](images/lets-spin--lets-spin-vegas-2.jpg)
+
+**Description:** The reels connect to the concentric rings above that contain the multipliers.
+
+### Image 3
+
+![Let's Spin / Let's Spin Vegas](images/lets-spin--lets-spin-vegas-3.jpg)
+
+**Description:** This is an excellent play. Landing a Spin symbol in the second reel will trigger a wheel spin with two multipliers.
+
+### Image 4
+
+![Let's Spin / Let's Spin Vegas](images/lets-spin--lets-spin-vegas-4.jpg)
+
+**Description:** This is a riskier play as you need to land both a Let's symbol in reel one and a Spin symbol in reel two. But if you do, you'll get a massive win with three combined multipliers.
+
+### Image 5
+
+![Let's Spin / Let's Spin Vegas](images/lets-spin--lets-spin-vegas-5.jpg)
+
+**Description:** Even with just one 3x multiplier, you can still get decent payouts.
+
 ## How The Advantage Works
 
 Let's Spin / Let's Spin Vegas features **persistent Let's and Spin symbols**:

@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/hyper-orbs-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![HYPER ORBS](images/hyper-orbs-1.jpg)
+
+### Image 2
+
+![HYPER ORBS](images/hyper-orbs-3.jpg)
+
+**Description:** 13 of the 15 orbs needed to trigger the bonus have been collected already. This is an excellent play.
+
+### Image 3
+
+![HYPER ORBS](images/hyper-orbs-4.jpg)
+
+**Description:** This free spins scatter symbol will stick around for three more spins. Landing two of these will trigger the bonus, so always play if there is a number inside the symbol. It also functions as a wild.
+
+### Image 4
+
+![HYPER ORBS](images/hyper-orbs-5.jpg)
+
 ## How The Advantage Works
 
 Hyper Orbs (King of the Seas / Dragon Sense) features **orb collection** that triggers free spins:

@@ -38,6 +38,36 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/rising-diamond-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![RISING DIAMOND](images/rising-diamond-1.jpg)
+
+### Image 2
+
+![RISING DIAMOND](images/rising-diamond-2.jpg)
+
+### Image 3
+
+![RISING DIAMOND](images/rising-diamond-3.jpg)
+
+### Image 4
+
+![RISING DIAMOND](images/rising-diamond-4.jpg)
+
+**Description:** This is also a play, even with the ways at 1024 and zero spins remaining. The two diamond symbols will expand the reels two levels on the next spin, all the way to 7776.
+
+### Image 5
+
+![RISING DIAMOND](images/rising-diamond-5.jpg)
+
+**Description:** The bonus feature is fairly volatile, but it can lead to nice wins, especially with multiple retriggers (which are easy to get).
+
 ## How The Advantage Works
 
 Rising Diamond features **expanding reels with diamond wilds**:

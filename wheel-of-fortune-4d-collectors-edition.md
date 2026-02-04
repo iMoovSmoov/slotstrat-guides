@@ -23,6 +23,22 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wheel-of-fortune-4d-collectors-edition-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Wheel of Fortune 4D Collector's Edition](images/wheel-of-fortune-4d-collectors-edition-1.jpg)
+
+### Image 2
+
+![Wheel of Fortune 4D Collector's Edition](images/wheel-of-fortune-4d-collectors-edition-2.jpg)
+
+**Description:** This is a solid play with the total prizes equal to 70x the bet level (or 50x when you use the weighted values method).
+
 ## How The Advantage Works
 
 WOF 4D Collector's Edition features **credit prizes with Collect trigger**:

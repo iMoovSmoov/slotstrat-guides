@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/egyptian-stars-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![EGYPTIAN STARS](images/egyptian-stars-1.jpg)
+
+### Image 2
+
+![EGYPTIAN STARS](images/egyptian-stars-2.jpg)
+
+**Description:** The blue star-shaped frames move up one position every spin. The frame in the upper left will move off screen next spin, so only play if there are frames below the top row.
+
+### Image 3
+
+![EGYPTIAN STARS](images/egyptian-stars-3.jpg)
+
+**Description:** Landing a blue star-shaped frame on top of a jackpot symbol will award that prize. The $10 mini is a solid win on a $0.75 bet.
+
 ## How The Advantage Works
 
 Egyptian Stars features **blue star frames that move UP**:

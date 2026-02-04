@@ -17,6 +17,10 @@ createdAt: 2025-01-01
 updatedAt: 2025-01-31
 ---
 
+## Thumbnail
+
+![Hero](/images/default-hero.png)
+
 ## This Is a Free Demo Guide
 
 > **Full access unlocks 111+ machine-specific guides** — each one built like this page, with real entry triggers, exit rules, and field-tested strategy notes. This demo shows you exactly what you get.

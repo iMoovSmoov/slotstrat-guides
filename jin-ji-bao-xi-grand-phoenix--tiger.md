@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/jin-ji-bao-xi-grand-phoenix--tiger-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Jin Ji Bao Xi Grand: Phoenix / Tiger](images/jin-ji-bao-xi-grand-phoenix--tiger-1.jpg)
+
+### Image 2
+
+![Jin Ji Bao Xi Grand: Phoenix / Tiger](images/jin-ji-bao-xi-grand-phoenix--tiger-2.jpg)
+
+**Description:** The bat symbols in reels two and four will be locked for one additional spin (not two like the coins on the bats would lead you to believe).
+
+### Image 3
+
+![Jin Ji Bao Xi Grand: Phoenix / Tiger](images/jin-ji-bao-xi-grand-phoenix--tiger-3.jpg)
+
+**Description:** There are several different games in the Jin Ji Bao Xi series, but only the Phoenix and Tiger versions have the persistent bat symbols.
+
 ## How The Advantage Works
 
 Jin Ji Bao Xi Grand (Phoenix/Tiger) features **wild bat symbols that lock on reels**:

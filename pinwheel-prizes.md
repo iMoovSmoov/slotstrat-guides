@@ -28,6 +28,26 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/pinwheel-prizes-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![PINWHEEL PRIZES](images/pinwheel-prizes-1.jpg)
+
+### Image 2
+
+![PINWHEEL PRIZES](images/pinwheel-prizes-3.jpg)
+
+### Image 3
+
+![PINWHEEL PRIZES](images/pinwheel-prizes-4.jpg)
+
+**Description:** This free spins bonus retriggered to 16 games, which gave me a win of over 100x my bet.
+
 ## How The Advantage Works
 
 Pinwheel Prizes (Cat & Tiger / Majestic Oasis) features **five pinwheels** with wedges:

@@ -38,6 +38,38 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/red-silk--aztec-chief-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![RED SILK / AZTEC CHIEF](images/red-silk--aztec-chief-1.jpg)
+
+### Image 2
+
+![RED SILK / AZTEC CHIEF](images/red-silk--aztec-chief-2.jpg)
+
+### Image 3
+
+![RED SILK / AZTEC CHIEF](images/red-silk--aztec-chief-3.jpg)
+
+**Description:** The second reel will be wild for one more spin, while the third reel will be wild for two more spins.
+
+### Image 4
+
+![RED SILK / AZTEC CHIEF](images/red-silk--aztec-chief-4.jpg)
+
+**Description:** This may look +EV with a coin in each of the first four reels, but I would avoid playing in situations like this (and most other experienced APs would agree).
+
+### Image 5
+
+![RED SILK / AZTEC CHIEF](images/red-silk--aztec-chief-5.jpg)
+
+**Description:** This handpay on Aztec Chief was the result of someone leaving behind active wilds in the first four reels.
+
 ## How The Advantage Works
 
 Red Silk / Aztec Chief features **coin collection for wild reels**:

@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/indian-motorcycle-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![INDIAN MOTORCYCLE](images/indian-motorcycle-1.jpg)
+
+### Image 2
+
+![INDIAN MOTORCYCLE](images/indian-motorcycle-2.jpg)
+
+**Description:** Seven of the eight gold trophies have been collected.
+
+### Image 3
+
+![INDIAN MOTORCYCLE](images/indian-motorcycle-3.jpg)
+
+**Description:** The player spins a bonus wheel after the eighth trophy has been collected.
+
 ## How The Advantage Works
 
 Indian Motorcycle features a **trophy collection system**:

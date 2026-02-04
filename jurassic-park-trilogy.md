@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/jurassic-park-trilogy-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Jurassic Park Trilogy](images/jurassic-park-trilogy-1.jpg)
+
+### Image 2
+
+![Jurassic Park Trilogy](images/jurassic-park-trilogy-2.jpg)
+
+**Description:** Even with five spins remaining on the counter above reel two, it can be difficult to land the second bonus symbol.
+
+### Image 3
+
+![Jurassic Park Trilogy](images/jurassic-park-trilogy-3.jpg)
+
+**Description:** The bonus symbol is much easier to land in reel four, so this is a much better play.
+
 ## How The Advantage Works
 
 Jurassic Park Trilogy features a **bonus triggered by symbols in reels 2 and 4**:

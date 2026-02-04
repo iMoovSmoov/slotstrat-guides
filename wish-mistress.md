@@ -23,6 +23,22 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wish-mistress-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Wish Mistress](images/wish-mistress-1.jpg)
+
+### Image 2
+
+![Wish Mistress](images/wish-mistress-2.jpg)
+
+**Description:** This is an excellent play with both blue and yellow one gem away from triggering. Ideally, you want to hit two wild features at once.
+
 ## How The Advantage Works
 
 Wish Mistress features **gem collection** that triggers wild features:

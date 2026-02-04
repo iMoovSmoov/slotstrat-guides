@@ -48,6 +48,50 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wolf-peak-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![WOLF PEAK / CAT PEAK / FU REN](images/wolf-peak-1.jpg)
+
+### Image 2
+
+![WOLF PEAK / CAT PEAK / FU REN](images/wolf-peak-2.jpg)
+
+**Description:** Do not play the purple wilds that look like this—they don’t stick around like the yellow ones.
+
+### Image 3
+
+![WOLF PEAK / CAT PEAK / FU REN](images/wolf-peak-3.jpg)
+
+**Description:** The expanding wilds in reel five aren’t worth playing.
+
+### Image 4
+
+![WOLF PEAK / CAT PEAK / FU REN](images/wolf-peak-4.jpg)
+
+**Description:** This was an amazing walk-up play that I found.
+
+### Image 5
+
+![WOLF PEAK / CAT PEAK / FU REN](images/wolf-peak-5.jpg)
+
+**Description:** The next spin after finding this play was a $193.65 win (on only an $0.80 bet).
+
+### Image 6
+
+![WOLF PEAK / CAT PEAK / FU REN](images/wolf-peak-6.jpg)
+
+### Image 7
+
+![WOLF PEAK / CAT PEAK / FU REN](images/wolf-peak-7.jpg)
+
+**Description:** Fu Ren Wu is an Asian-themed clone of Wolf Peak.
+
 ## How The Advantage Works
 
 Wolf Peak features **expanding wilds that persist for 4 spins**:

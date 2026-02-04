@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/golden-messenger-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Golden Messenger](images/golden-messenger-1.jpg)
+
+### Image 2
+
+![Golden Messenger](images/golden-messenger-2.jpg)
+
+**Description:** The three coins in the first reel will be removed on the next spin, so this is not a play.
+
+### Image 3
+
+![Golden Messenger](images/golden-messenger-3.jpg)
+
+**Description:** There is usually one good prize and two bad ones. You need to log enough sessions to even out the bad picks with the good picks.
+
 ## How The Advantage Works
 
 Golden Messenger features **coin collection with prize pick**:

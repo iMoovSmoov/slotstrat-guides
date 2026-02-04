@@ -28,6 +28,26 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wheel-of-fortune-wild-spin-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Wheel of Fortune Wild Spin](images/wheel-of-fortune-wild-spin-1.jpg)
+
+### Image 2
+
+![Wheel of Fortune Wild Spin](images/wheel-of-fortune-wild-spin-2.jpg)
+
+### Image 3
+
+![Wheel of Fortune Wild Spin](images/wheel-of-fortune-wild-spin-3.jpg)
+
+**Description:** This walk-up play resulted in a $66 win on a $2 investment. Five-of-a-kind wilds, like on the top two rows, pay very well.
+
 ## How The Advantage Works
 
 Wheel of Fortune Wild Spin operates on a **10-game cycle with locking frames**:

@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/golden-egypt-grand-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![GOLDEN EGYPT GRANDE](images/golden-egypt-grand-1.jpg)
+
+### Image 2
+
+![GOLDEN EGYPT GRANDE](images/golden-egypt-grand-2.jpg)
+
+**Description:** This is a best case scenario, where each reel is one coin away from turning wild.
+
+### Image 3
+
+![GOLDEN EGYPT GRANDE](images/golden-egypt-grand-3.jpg)
+
+**Description:** Reel one will be wild for the next two spins, reel two will be wild for the next one spin, reel three will be wild for the next four spins and reel five will be wild for the next two spins.
+
+### Image 4
+
+![GOLDEN EGYPT GRANDE](images/golden-egypt-grand-4.jpg)
+
+**Description:** Most APs will only play when two of the first three reels are one coin away. However, I would still play in situations like this, where there are six coins in the first four reels.
+
+### Image 5
+
+![GOLDEN EGYPT GRANDE](images/golden-egypt-grand-5.jpg)
+
+**Description:** Getting all five reels wild at the same time will pay 300x the bet.
+
 ## How The Advantage Works
 
 Golden Egypt Grand features **coin holders** above each reel:

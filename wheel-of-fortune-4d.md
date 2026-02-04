@@ -33,6 +33,30 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wheel-of-fortune-4d-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![WHEEL OF FORTUNE 4D](images/wheel-of-fortune-4d-1.jpg)
+
+### Image 2
+
+![WHEEL OF FORTUNE 4D](images/wheel-of-fortune-4d-2.jpg)
+
+### Image 3
+
+![WHEEL OF FORTUNE 4D](images/wheel-of-fortune-4d-3.jpg)
+
+### Image 4
+
+![WHEEL OF FORTUNE 4D](images/wheel-of-fortune-4d-4.jpg)
+
+**Description:** The 13x yellow multiplier is up next, so I would give this one spin and then stop playing.
+
 ## How The Advantage Works
 
 Wheel of Fortune 4D More Money features **cycling multipliers above reels**:

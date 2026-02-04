@@ -38,6 +38,36 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/top-up-fortunes-flame--ocean-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Top Up Fortunes: Flame / Ocean](images/top-up-fortunes-flame--ocean-1.jpg)
+
+### Image 2
+
+![Top Up Fortunes: Flame / Ocean](images/top-up-fortunes-flame--ocean-2.jpg)
+
+### Image 3
+
+![Top Up Fortunes: Flame / Ocean](images/top-up-fortunes-flame--ocean-3.jpg)
+
+### Image 4
+
+![Top Up Fortunes: Flame / Ocean](images/top-up-fortunes-flame--ocean-4.jpg)
+
+**Description:** Landing a volcano symbol in the fifth reel (which was already max height) triggered the Add Wild feature. Sega Sammy games are known for having massive line hits like this.
+
+### Image 5
+
+![Top Up Fortunes: Flame / Ocean](images/top-up-fortunes-flame--ocean-5.jpg)
+
+**Description:** The yellow squares represent the expanded reels (you may need to tap the Paytable button on the left if you aren’t seeing this screen displayed).
+
 ## How The Advantage Works
 
 Top Up Fortunes features **expanding reels with Add Wild opportunity**:

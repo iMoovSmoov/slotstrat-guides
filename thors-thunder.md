@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/thors-thunder-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Thor's Thunder](images/thors-thunder-1.jpg)
+
+### Image 2
+
+![Thor's Thunder](images/thors-thunder-2.jpg)
+
+**Description:** The game is currently in Storm Mode. Whenever the Thor symbol lands in the center position, all of the credit prizes are awarded.
+
+### Image 3
+
+![Thor's Thunder](images/thors-thunder-3.jpg)
+
+**Description:** The quickest way to check this game is to just glance at the bet pad. The 225 credits bet is currently in Storm Mode.
+
 ## How The Advantage Works
 
 Thor's Thunder features **Storm Mode with enhanced Thor symbol odds**:

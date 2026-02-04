@@ -43,6 +43,46 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/blooming-penzai-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Blooming Penzai](images/blooming-penzai-1.jpg)
+
+### Image 2
+
+![Blooming Penzai](images/blooming-penzai-2.jpg)
+
+**Description:** The prizes above the five reels add up to approximately 100x the bet, so this is a solid play.
+
+### Image 3
+
+![Blooming Penzai](images/blooming-penzai-3.jpg)
+
+**Description:** Landing a gold tree symbol during the Blooming Gold free games feature will award the prize above that reel.
+
+### Image 4
+
+![Blooming Penzai](images/blooming-penzai-4.jpg)
+
+**Description:** This is an amazing play with a ton of built-up equity. The total value of the prizes is 239x the bet level.
+
+### Image 5
+
+![Blooming Penzai](images/blooming-penzai-5.jpg)
+
+**Description:** The coin symbol in the first reel added enough equity to the prize to turn the tree above fully golden.
+
+### Image 6
+
+![Blooming Penzai](images/blooming-penzai-6.jpg)
+
+**Description:** You will usually trigger several prizes during the Blooming Gold feature, so it can pay very well when enough equity has accrued.
+
 ## How The Advantage Works
 
 Blooming Penzai features **credit prizes and trees** above each reel:

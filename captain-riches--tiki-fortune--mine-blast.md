@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/captain-riches--tiki-fortune--mine-blast-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Captain Riches / Tiki Fortune / Mine Blast](images/captain-riches--tiki-fortune--mine-blast-1.jpg)
+
+### Image 2
+
+![Captain Riches / Tiki Fortune / Mine Blast](images/captain-riches--tiki-fortune--mine-blast-2.jpg)
+
+**Description:** The middle reel has one active wild remaining (with a 2x multiplier). The fourth reel doesn’t have any active wilds remaining.
+
+### Image 3
+
+![Captain Riches / Tiki Fortune / Mine Blast](images/captain-riches--tiki-fortune--mine-blast-3.jpg)
+
+**Description:** I recommend only playing wilds in the fourth reel if they contain multiplier coins like this. And remember that having more treasure chests unlocked doesn’t mean that the bonus is more likely to hit
+
+### Image 4
+
+![Captain Riches / Tiki Fortune / Mine Blast](images/captain-riches--tiki-fortune--mine-blast-4.jpg)
+
+**Description:** Mine Blast is a newer clone of Captain Riches and Tiki Fortune—it plays exactly the same.
+
 ## How The Advantage Works
 
 Captain Riches / Tiki Fortune / Mine Blast features **coin holders** above reels 2, 3, and 4:

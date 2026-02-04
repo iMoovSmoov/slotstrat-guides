@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/magic-wishes-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![MAGIC WISHES](images/magic-wishes-1.jpg)
+
+### Image 2
+
+![MAGIC WISHES](images/magic-wishes-2.jpg)
+
+**Description:** The game counter on the bottom right shows this game is on spin 4 of 10. Landing the lamp symbol creates the locked frames. These frames accumulate up until spin ten, when they all will turn wild.
+
+### Image 3
+
+![MAGIC WISHES](images/magic-wishes-3.jpg)
+
+**Description:** Five-of-a-kind wilds pay very well, as you can see on this $16.41 win on a $0.75 bet.
+
 ## How The Advantage Works
 
 Magic Wishes operates on a **10-game cycle** with frame collection:

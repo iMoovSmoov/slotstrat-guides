@@ -23,6 +23,20 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/fairy-hollow-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Fairy Hollow](images/fairy-hollow-1.jpg)
+
+### Image 2
+
+![Fairy Hollow](images/fairy-hollow-2.jpg)
+
 ## How The Advantage Works
 
 Fairy Hollow features **wild butterflies** that persist for 3 spins:

@@ -38,6 +38,36 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/jackpot-catcher-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![JACKPOT CATCHER](images/jackpot-catcher-1.jpg)
+
+### Image 2
+
+![JACKPOT CATCHER](images/jackpot-catcher-2.jpg)
+
+### Image 3
+
+![JACKPOT CATCHER](images/jackpot-catcher-3.jpg)
+
+### Image 4
+
+![JACKPOT CATCHER](images/jackpot-catcher-4.jpg)
+
+**Description:** It is actually fairly common to find walkup plays like this. The previous player won the mega (and mini) and then cashed out.
+
+### Image 5
+
+![JACKPOT CATCHER](images/jackpot-catcher-5.jpg)
+
+**Description:** Triggering the special Jackpot Catcher Spin on an already full board is the best possible scenario.
+
 ## How The Advantage Works
 
 Jackpot Catcher (Sun / Moon) features **glowing rings** that lock on reels:

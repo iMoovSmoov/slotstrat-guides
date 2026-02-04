@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/buffalo-link-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![BUFFALO LINK](images/buffalo-link-1.jpg)
+
+### Image 2
+
+![BUFFALO LINK](images/buffalo-link-2.jpg)
+
+**Description:** The free feature triggers at a random point between 100 and 1800, so it is rare to find the counter this high.
+
+### Image 3
+
+![BUFFALO LINK](images/buffalo-link-3.jpg)
+
+**Description:** Line hits can occasionally pay out handsomely, even on lower bets.
+
 ## How The Advantage Works
 
 Buffalo Link features a must-hit-by counter that:

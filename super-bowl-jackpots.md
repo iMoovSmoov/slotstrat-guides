@@ -48,6 +48,50 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/super-bowl-jackpots-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Super Bowl Jackpots](images/super-bowl-jackpots-1.jpg)
+
+### Image 2
+
+![Super Bowl Jackpots](images/super-bowl-jackpots-2.jpg)
+
+### Image 3
+
+![Super Bowl Jackpots](images/super-bowl-jackpots-3.jpg)
+
+**Description:** The jackpots can get added to the credit prizes. The minor is $100, so the total equity on the board is $212.50.
+
+### Image 4
+
+![Super Bowl Jackpots](images/super-bowl-jackpots-4.jpg)
+
+**Description:** This play resulted in a profit of $113 in two spins.
+
+### Image 5
+
+![Super Bowl Jackpots](images/super-bowl-jackpots-5.jpg)
+
+**Description:** This was a walk-up play with $171 of equity on the board.
+
+### Image 6
+
+![Super Bowl Jackpots](images/super-bowl-jackpots-6.jpg)
+
+**Description:** It resulted in a $190 profit in one spin. You can make excellent money on this machine in a short amount of time.
+
+### Image 7
+
+![Super Bowl Jackpots](images/super-bowl-jackpots-7.jpg)
+
+**Description:** You may want to avoid plays like these with small credit prizes (relative to the bet size) in order to lower your variance and increase your edge.
+
 ## How The Advantage Works
 
 Super Bowl Jackpots features **2-Minute Drill with persistent prizes**:

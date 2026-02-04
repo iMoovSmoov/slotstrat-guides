@@ -48,6 +48,46 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/scarab--diamond-mania-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![SCARAB / DIAMOND MANIA](images/scarab--diamond-mania-1.jpg)
+
+### Image 2
+
+![SCARAB / DIAMOND MANIA](images/scarab--diamond-mania-2.jpg)
+
+### Image 3
+
+![SCARAB / DIAMOND MANIA](images/scarab--diamond-mania-3.jpg)
+
+**Description:** Five-of-a-kind wilds pay very well.
+
+### Image 4
+
+![SCARAB / DIAMOND MANIA](images/scarab--diamond-mania-4.jpg)
+
+### Image 5
+
+![SCARAB / DIAMOND MANIA](images/scarab--diamond-mania-5.jpg)
+
+### Image 6
+
+![SCARAB / DIAMOND MANIA](images/scarab--diamond-mania-6.jpg)
+
+**Description:** If you play Scarab and Diamond Mania enough, you will eventually stumble upon plays like this, inexplicably abandoned on the ninth spin right before a huge payout.
+
+### Image 7
+
+![SCARAB / DIAMOND MANIA](images/scarab--diamond-mania-7.jpg)
+
+**Description:** With enough wilds, the game can pay very well, even on the lower bet levels.
+
 ## How The Advantage Works
 
 Scarab / Diamond Mania operates on a **10-game cycle with locking frames**:

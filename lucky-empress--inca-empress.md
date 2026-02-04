@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/lucky-empress--inca-empress-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![LUCKY EMPRESS / INCA EMPRESS](images/lucky-empress--inca-empress-1.jpg)
+
+### Image 2
+
+![LUCKY EMPRESS / INCA EMPRESS](images/lucky-empress--inca-empress-3.jpg)
+
+**Description:** The free games feature can pay big even on small bets, but it can often disappoint as well.
+
+### Image 3
+
+![LUCKY EMPRESS / INCA EMPRESS](images/lucky-empress--inca-empress-4.jpg)
+
+**Description:** Never play in situations like this where the multipliers are not yet revealed.
+
 ## How The Advantage Works
 
 Lucky Empress / Inca Empress features **persistent multipliers** on the left side of rows:

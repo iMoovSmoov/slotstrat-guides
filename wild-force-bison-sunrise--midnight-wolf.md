@@ -48,6 +48,52 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wild-force-bison-sunrise--midnight-wolf-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Wild Force: Bison Sunrise / Midnight Wolf](images/wild-force-bison-sunrise--midnight-wolf-1.jpg)
+
+### Image 2
+
+![Wild Force: Bison Sunrise / Midnight Wolf](images/wild-force-bison-sunrise--midnight-wolf-2.jpg)
+
+**Description:** The game comes in a tall cabinet with a huge wheel at the top, so it is easy to spot inside casinos.
+
+### Image 3
+
+![Wild Force: Bison Sunrise / Midnight Wolf](images/wild-force-bison-sunrise--midnight-wolf-3.jpg)
+
+**Description:** The Spin symbol landed in the middle reel, which triggered the Wild Spark feature on the selector wheel. All of the frames connected horizontally and vertically turned wild.
+
+### Image 4
+
+![Wild Force: Bison Sunrise / Midnight Wolf](images/wild-force-bison-sunrise--midnight-wolf-4.jpg)
+
+**Description:** Setups like this might look tempting to play, but I would pass on this. Unless you connect many more frames, the payout just won’t cover the cost to trigger the Wild Spark feature.
+
+### Image 5
+
+![Wild Force: Bison Sunrise / Midnight Wolf](images/wild-force-bison-sunrise--midnight-wolf-5.jpg)
+
+**Description:** This was a bad play that I took. Even with the three wilds across the top row, it paid less than the bet amount.
+
+### Image 6
+
+![Wild Force: Bison Sunrise / Midnight Wolf](images/wild-force-bison-sunrise--midnight-wolf-6.jpg)
+
+**Description:** These are the kind of boards you need to get a nice win.
+
+### Image 7
+
+![Wild Force: Bison Sunrise / Midnight Wolf](images/wild-force-bison-sunrise--midnight-wolf-7.jpg)
+
+**Description:** You need to form a payline with five wilds to get a decent payout.
+
 ## How The Advantage Works
 
 Wild Force features **locked frames that turn wild on Wild Spark**:

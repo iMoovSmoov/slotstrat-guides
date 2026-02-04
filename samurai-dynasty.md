@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/samurai-dynasty-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Samurai Dynasty](images/samurai-dynasty-1.jpg)
+
+### Image 2
+
+![Samurai Dynasty](images/samurai-dynasty-2.jpg)
+
+**Description:** The bonus symbols (shown in reels one and two) move down one position every spin.
+
+### Image 3
+
+![Samurai Dynasty](images/samurai-dynasty-3.jpg)
+
+**Description:** If you see three bonus symbols, that means the bonus was just triggered and that the symbols will disappear next spin.
+
+### Image 4
+
+![Samurai Dynasty](images/samurai-dynasty-4.jpg)
+
+**Description:** Most of your bonuses will be a disappointment.
+
+### Image 5
+
+![Samurai Dynasty](images/samurai-dynasty-5.jpg)
+
+**Description:** Expect the occasional large bonus like this when the wild phoenix symbols lock in place.
+
 ## How The Advantage Works
 
 Samurai Dynasty features **persistent bonus symbols that move down**:

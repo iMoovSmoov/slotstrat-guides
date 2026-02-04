@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/cyber-dragon-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![CYBER DRAGON](images/cyber-dragon-1.jpg)
+
+### Image 2
+
+![CYBER DRAGON](images/cyber-dragon-3.jpg)
+
+**Description:** Seven of the eight segments are filled, which is a great situation. I would still play when it's 6 of 8, but be mindful that the game is extremely high volatility.
+
+### Image 3
+
+![CYBER DRAGON](images/cyber-dragon-4.jpg)
+
+**Description:** Not all Wheel features will pay well. This game can have high volatility.
+
+### Image 4
+
+![CYBER DRAGON](images/cyber-dragon-5.jpg)
+
 ## How The Advantage Works
 
 Cyber Dragon features a **yin-yang meter** with 8 segments above the reels:

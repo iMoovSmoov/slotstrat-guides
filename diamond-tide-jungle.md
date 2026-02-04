@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/diamond-tide-jungle-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![DIAMOND TIDE JUNGLE](images/diamond-tide-jungle-1.jpg)
+
+### Image 2
+
+![DIAMOND TIDE JUNGLE](images/diamond-tide-jungle-2.jpg)
+
+**Description:** The blue diamond above the reels will occasionally shoot down an array of blue wilds.
+
+### Image 3
+
+![DIAMOND TIDE JUNGLE](images/diamond-tide-jungle-3.jpg)
+
+**Description:** I would avoid playing situations like this—the wild in the first reel will move off screen next spin and the other two wilds aren’t in a good position to help form a potential line hit.
+
+### Image 4
+
+![DIAMOND TIDE JUNGLE](images/diamond-tide-jungle-4.jpg)
+
+**Description:** This is an excellent play that will lead to guaranteed line hits on the next spin.
+
 ## How The Advantage Works
 
 Diamond Tide Jungle features **persistent yellow wilds that shift left**:

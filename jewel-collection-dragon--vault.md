@@ -48,6 +48,50 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/jewel-collection-dragon--vault-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Jewel Collection: Dragon / Vault](images/jewel-collection-dragon--vault-1.jpg)
+
+### Image 2
+
+![Jewel Collection: Dragon / Vault](images/jewel-collection-dragon--vault-2.jpg)
+
+### Image 3
+
+![Jewel Collection: Dragon / Vault](images/jewel-collection-dragon--vault-3.jpg)
+
+**Description:** During the bonus features, the extra wilds are added to the reel strips but are not guaranteed to actually land on the reels.
+
+### Image 4
+
+![Jewel Collection: Dragon / Vault](images/jewel-collection-dragon--vault-4.jpg)
+
+**Description:** You can get massive line hits when the wild symbols line up.
+
+### Image 5
+
+![Jewel Collection: Dragon / Vault](images/jewel-collection-dragon--vault-5.jpg)
+
+**Description:** The bonus features can be feast or famine.
+
+### Image 6
+
+![Jewel Collection: Dragon / Vault](images/jewel-collection-dragon--vault-6.jpg)
+
+**Description:** The bet pad shows the extra wilds accumulated in the sapphire, emerald and ruby meters, but you need to check the screen to see the wilds accumulated in the amethyst meter.
+
+### Image 7
+
+![Jewel Collection: Dragon / Vault](images/jewel-collection-dragon--vault-7.jpg)
+
+**Description:** The Dragon and Vault versions of Jewel Collection play the same for advantage purposes.
+
 ## How The Advantage Works
 
 Jewel Collection features **four jewel meters + scatter meter**:

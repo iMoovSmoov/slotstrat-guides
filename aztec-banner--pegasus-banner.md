@@ -38,6 +38,38 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/aztec-banner--pegasus-banner-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Aztec Banner / Pegasus Banner](images/aztec-banner--pegasus-banner-1.jpg)
+
+### Image 2
+
+![Aztec Banner / Pegasus Banner](images/aztec-banner--pegasus-banner-2.jpg)
+
+### Image 3
+
+![Aztec Banner / Pegasus Banner](images/aztec-banner--pegasus-banner-3.jpg)
+
+**Description:** Landing the 2-high club and heart banners refreshed their counters above the reels, resetting each one back to seven spins remaining.
+
+### Image 4
+
+![Aztec Banner / Pegasus Banner](images/aztec-banner--pegasus-banner-4.jpg)
+
+**Description:** Even with only two card symbols active, this setup is still worth playing for a couple more spins. You’ve got a good chance to activate a third card symbol — and maybe even a fourth if you get lucky!
+
+### Image 5
+
+![Aztec Banner / Pegasus Banner](images/aztec-banner--pegasus-banner-5.jpg)
+
+**Description:** There are three card symbols active on the 150-credit bet, which you can easily spot right on the bet pad — a clear sign that this is a play.
+
 ## How The Advantage Works
 
 Aztec Banner / Pegasus Banner features **four card symbols** above the reels:

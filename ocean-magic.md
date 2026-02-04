@@ -43,6 +43,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/ocean-magic-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![OCEAN MAGIC](images/ocean-magic-1.jpg)
+
+### Image 2
+
+![OCEAN MAGIC](images/ocean-magic-2.jpg)
+
+**Description:** Having five wild bubbles on the same row is an amazing situation. Bubbles often come in big spurts like this.
+
+### Image 3
+
+![OCEAN MAGIC](images/ocean-magic-3.jpg)
+
+### Image 4
+
+![OCEAN MAGIC](images/ocean-magic-4.jpg)
+
+### Image 5
+
+![OCEAN MAGIC](images/ocean-magic-5.jpg)
+
+### Image 6
+
+![OCEAN MAGIC](images/ocean-magic-6.jpg)
+
+**Description:** Fu Ru Dong Hai is an Asian-themed clone of Ocean Magic. It’s not nearly as common as the original Ocean Magic, but you can still find it in some casinos.
+
 ## How The Advantage Works
 
 Ocean Magic / Fu Ru Dong Hai features **wild bubbles** that move up:

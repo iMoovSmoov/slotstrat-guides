@@ -43,6 +43,44 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/dragon-unleashed-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Dragon Unleashed](images/dragon-unleashed-1.jpg)
+
+### Image 2
+
+![Dragon Unleashed](images/dragon-unleashed-2.jpg)
+
+### Image 3
+
+![Dragon Unleashed](images/dragon-unleashed-3.jpg)
+
+**Description:** Orbs with large credit prizes, like the one in reel four, are less likely to come in large stacks.
+
+### Image 4
+
+![Dragon Unleashed](images/dragon-unleashed-4.jpg)
+
+**Description:** If a respin symbol lands in reel five, the reels with the orbs will lock in place and the other reels will spin again, giving you an additional chance to land the six orbs needed for the feature.
+
+### Image 5
+
+![Dragon Unleashed](images/dragon-unleashed-5.jpg)
+
+**Description:** During the hold & spin feature, filling all 12 positions will award a spin of the Dragon Unleashed reel, which can lead to big wins like this.
+
+### Image 6
+
+![Dragon Unleashed](images/dragon-unleashed-6.jpg)
+
+**Description:** Dragon Unleashed comes in a variety of themes, but they all play the same for advantage purposes.
+
 ## How The Advantage Works
 
 Dragon Unleashed features **persistent orbs** that shift down each spin:

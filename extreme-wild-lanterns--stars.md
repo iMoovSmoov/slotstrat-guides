@@ -38,6 +38,38 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/extreme-wild-lanterns--stars-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Extreme Wild: Lanterns / Stars](images/extreme-wild-lanterns--stars-1.jpg)
+
+### Image 2
+
+![Extreme Wild: Lanterns / Stars](images/extreme-wild-lanterns--stars-2.jpg)
+
+**Description:** The built-up lanterns/stars above the reels are fake indicators that don’t offer any advantage.
+
+### Image 3
+
+![Extreme Wild: Lanterns / Stars](images/extreme-wild-lanterns--stars-3.jpg)
+
+### Image 4
+
+![Extreme Wild: Lanterns / Stars](images/extreme-wild-lanterns--stars-4.jpg)
+
+**Description:** Expect to get a lot of dead spins interspersed with the occasional big line hit like this.
+
+### Image 5
+
+![Extreme Wild: Lanterns / Stars](images/extreme-wild-lanterns--stars-5.jpg)
+
+**Description:** The free games bonus is volatile but can pay very well.
+
 ## How The Advantage Works
 
 Extreme Wild: Lanterns / Stars features **coin collection for wild reels**:

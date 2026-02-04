@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/elephant-king-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Elephant King](images/elephant-king-1.jpg)
+
+### Image 2
+
+![Elephant King](images/elephant-king-2.jpg)
+
+### Image 3
+
+![Elephant King](images/elephant-king-3.jpg)
+
+**Description:** Most of the green credit prizes are not worth playing. However, you will occasionally find exceptionally large ones like the one in reel five that is over 50x the bet.
+
+### Image 4
+
+![Elephant King](images/elephant-king-4.jpg)
+
+**Description:** This is an excellent play with three free games prizes in the Prize Disk.
+
 ## How The Advantage Works
 
 Elephant King features a **Prize Disk** above the reels:

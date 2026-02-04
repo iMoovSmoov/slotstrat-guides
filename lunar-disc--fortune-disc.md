@@ -38,6 +38,38 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/lunar-disc--fortune-disc-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![LUNAR DISC / FORTUNE DISC](images/lunar-disc--fortune-disc-1.jpg)
+
+### Image 2
+
+![LUNAR DISC / FORTUNE DISC](images/lunar-disc--fortune-disc-2.jpg)
+
+**Description:** The disc counter is at five, so this is a solid play.
+
+### Image 3
+
+![LUNAR DISC / FORTUNE DISC](images/lunar-disc--fortune-disc-3.jpg)
+
+**Description:** Getting multiple discs active during the feature can lead to nice wins such as this.
+
+### Image 4
+
+![LUNAR DISC / FORTUNE DISC](images/lunar-disc--fortune-disc-4.jpg)
+
+### Image 5
+
+![LUNAR DISC / FORTUNE DISC](images/lunar-disc--fortune-disc-5.jpg)
+
+**Description:** Fortune Disc is a less common clone of Lunar Disc.
+
 ## How The Advantage Works
 
 Lunar Disc / Fortune Disc features **disc collection** that triggers a bonus:

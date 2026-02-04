@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/life-of-luxury-hot-diamonds-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Life of Luxury Hot Diamonds](images/life-of-luxury-hot-diamonds-1.jpg)
+
+### Image 2
+
+![Life of Luxury Hot Diamonds](images/life-of-luxury-hot-diamonds-2.jpg)
+
+**Description:** All of the themes in this series feature a car, a boat and a plane, regardless of whether it actually matches the setting of the game.
+
+### Image 3
+
+![Life of Luxury Hot Diamonds](images/life-of-luxury-hot-diamonds-3.jpg)
+
+**Description:** You can look directly on the bet pad to see the number of free games on all bet levels.
+
 ## How The Advantage Works
 
 Life of Luxury Hot Diamonds features **three progressive free games meters** (NOT must-hit-by):

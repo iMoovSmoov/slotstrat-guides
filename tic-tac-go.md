@@ -48,6 +48,48 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/tic-tac-go-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Tic Tac Go](images/tic-tac-go-1.jpg)
+
+### Image 2
+
+![Tic Tac Go](images/tic-tac-go-2.jpg)
+
+**Description:** A red X landed in reel three, which won the game for red on the board above. The total value on all of the X’s was awarded.
+
+### Image 3
+
+![Tic Tac Go](images/tic-tac-go-3.jpg)
+
+**Description:** Do not play boards like this. Red won on the previous game and the entire board will clear out next spin.
+
+### Image 4
+
+![Tic Tac Go](images/tic-tac-go-4.jpg)
+
+### Image 5
+
+![Tic Tac Go](images/tic-tac-go-5.jpg)
+
+**Description:** This is a much better play because the total equity here is 28x.
+
+### Image 6
+
+![Tic Tac Go](images/tic-tac-go-6.jpg)
+
+**Description:** This is an excellent play with both the major and minor jackpots on the board.
+
+### Image 7
+
+![Tic Tac Go](images/tic-tac-go-7.jpg)
+
 ## How The Advantage Works
 
 Tic Tac Go features **a tic-tac-toe board with accumulated prizes**:

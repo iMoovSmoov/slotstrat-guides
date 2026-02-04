@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/pillars-of-cash-celestial-fortune--festive-fortune-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Pillars of Cash: Celestial Fortune / Festive Fortune](images/pillars-of-cash-celestial-fortune--festive-fortune-1.jpg)
+
+### Image 2
+
+![Pillars of Cash: Celestial Fortune / Festive Fortune](images/pillars-of-cash-celestial-fortune--festive-fortune-2.jpg)
+
+**Description:** Three gold dragons is always a play.
+
+### Image 3
+
+![Pillars of Cash: Celestial Fortune / Festive Fortune](images/pillars-of-cash-celestial-fortune--festive-fortune-3.jpg)
+
+**Description:** A coin symbol landed in reel four, triggering the pillar prize above.
+
 ## How The Advantage Works
 
 Pillars of Cash features **pillars that build credit prizes with gold dragon triggers**:

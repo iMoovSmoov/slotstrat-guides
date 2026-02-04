@@ -43,6 +43,46 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/fu-dai-lian-lian-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Fu Dai Lian Lian](images/fu-dai-lian-lian-1.jpg)
+
+### Image 2
+
+![Fu Dai Lian Lian](images/fu-dai-lian-lian-2.jpg)
+
+**Description:** The red bag in the middle is a “level 4” bag, which is the largest size the bags grow to before they get jewels.
+
+### Image 3
+
+![Fu Dai Lian Lian](images/fu-dai-lian-lian-3.jpg)
+
+**Description:** Having all three bags with jewels like this is an excellent play (but still very high variance).
+
+### Image 4
+
+![Fu Dai Lian Lian](images/fu-dai-lian-lian-4.jpg)
+
+**Description:** It’s fairly common to trigger multiple bags at the same time, which makes the bonus even more lucrative.
+
+### Image 5
+
+![Fu Dai Lian Lian](images/fu-dai-lian-lian-5.jpg)
+
+**Description:** The boosted bonus usually pays very well, even if you just trigger one bag. The above is still a play after the bonus ends because there are still two bags with jewels.
+
+### Image 6
+
+![Fu Dai Lian Lian](images/fu-dai-lian-lian-6.jpg)
+
+**Description:** You can check this machine by looking directly on the bet pad. You can see the jewels in the red bag on the right.
+
 ## How The Advantage Works
 
 Fu Dai Lian Lian: Boost Peacock / Boost Tiger features **three bags** that fill with coins:

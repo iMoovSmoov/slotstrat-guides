@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/honey-bucks-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![HONEY BUCKS](images/honey-bucks-1.jpg)
+
+### Image 2
+
+![HONEY BUCKS](images/honey-bucks-2.jpg)
+
+**Description:** Five bees flew off the reels, leaving behind five empty spaces in the honeycomb. These spaces will be wild for the next two spins.
+
+### Image 3
+
+![HONEY BUCKS](images/honey-bucks-3.jpg)
+
+**Description:** This is what the empty spaces from the previous photo will look like after the next spin. Yellow wilds like these will be around for one more spin.
+
+### Image 4
+
+![HONEY BUCKS](images/honey-bucks-4.jpg)
+
+**Description:** Don’t play wilds that look like these—they will disappear on the next spin.
+
 ## How The Advantage Works
 
 Honey Bucks features **persistent wilds** from bees leaving the honeycomb:

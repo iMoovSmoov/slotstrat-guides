@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/reel-climb-celestial-mountain--prosperity-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![REEL CLIMB](images/reel-climb-celestial-mountain--prosperity-1.jpg)
+
+### Image 2
+
+![REEL CLIMB](images/reel-climb-celestial-mountain--prosperity-2.jpg)
+
+**Description:** This is a solid play with the first reel with firecrackers (reel two) down to two sets remaining and the second reel with firecrackers (reel three) down to just one set of firecrackers remaining.
+
+### Image 3
+
+![REEL CLIMB](images/reel-climb-celestial-mountain--prosperity-3.jpg)
+
+**Description:** The arrow symbols that expand the reels (by exploding the firecrackers) aren’t applied until the next spin. So the first reel with firecrackers (reel two) will be active for the next three spins.
+
+### Image 4
+
+![REEL CLIMB](images/reel-climb-celestial-mountain--prosperity-4.jpg)
+
+**Description:** The first reel with firecrackers (reel two) will be active for one more spin (notice the counter above the reel).
+
+### Image 5
+
+![REEL CLIMB](images/reel-climb-celestial-mountain--prosperity-5.jpg)
+
+**Description:** You can get huge wins on this game even on small bets. This is a $264.60 line hit (the win amount was still counting up when I snapped the pic) on a $0.60 bet.
+
 ## How The Advantage Works
 
 Reel Climb features **firecrackers that expand reels + activate wild triggers**:

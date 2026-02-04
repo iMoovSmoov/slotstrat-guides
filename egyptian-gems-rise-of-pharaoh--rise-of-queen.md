@@ -48,6 +48,50 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Egyptian Gems: Rise of Pharaoh / Rise of Queen](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-1.jpg)
+
+### Image 2
+
+![Egyptian Gems: Rise of Pharaoh / Rise of Queen](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-2.jpg)
+
+### Image 3
+
+![Egyptian Gems: Rise of Pharaoh / Rise of Queen](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-3.jpg)
+
+**Description:** This is an excellent play with a yellow orb in reel five, another yellow orb in the upcoming queue and six total orbs on the board.
+
+### Image 4
+
+![Egyptian Gems: Rise of Pharaoh / Rise of Queen](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-4.jpg)
+
+**Description:** The Inner Reel Feature triggered on the orb in reel one giving it a 3x multiplier.
+
+### Image 5
+
+![Egyptian Gems: Rise of Pharaoh / Rise of Queen](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-5.jpg)
+
+**Description:** The free games bonus was triggered by the Inner Reel Feature in the first reel. The orb in the sixth reel got doubled in value because two pyramid symbols landed in that row.
+
+### Image 6
+
+![Egyptian Gems: Rise of Pharaoh / Rise of Queen](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-6.jpg)
+
+**Description:** The free games bonus is fairly volatile, but it offers the potential for big wins.
+
+### Image 7
+
+![Egyptian Gems: Rise of Pharaoh / Rise of Queen](images/egyptian-gems-rise-of-pharaoh--rise-of-queen-7.jpg)
+
+**Description:** Egyptian Gems comes in two themes—Rise of Pharaoh and Rise of Queen. Both versions play the same for advantage purposes.
+
 ## How The Advantage Works
 
 Egyptian Gems features **orbs with credit prizes** that move across the reels:

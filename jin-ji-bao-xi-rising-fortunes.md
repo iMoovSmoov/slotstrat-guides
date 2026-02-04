@@ -18,6 +18,16 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/jin-ji-bao-xi-rising-fortunes-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Jin Ji Bao Xi: Rising Fortunes](images/jin-ji-bao-xi-rising-fortunes-1.jpg)
+
 ## How The Advantage Works
 
 Jin Ji Bao Xi: Rising Fortunes features a **must-hit-by progressive jackpot**:

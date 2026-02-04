@@ -38,6 +38,38 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/legend-of-the-3x-2x-phoenix-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![LEGEND OF THE 3X 2X PHOENIX](images/legend-of-the-3x-2x-phoenix-1.jpg)
+
+### Image 2
+
+![LEGEND OF THE 3X 2X PHOENIX](images/legend-of-the-3x-2x-phoenix-2.jpg)
+
+### Image 3
+
+![LEGEND OF THE 3X 2X PHOENIX](images/legend-of-the-3x-2x-phoenix-3.jpg)
+
+**Description:** The red meter resets to 5 and pays at 2x, the green meter resets to 7 and pays at 5x and the blue meter resets to 10 and pays at 10x.
+
+### Image 4
+
+![LEGEND OF THE 3X 2X PHOENIX](images/legend-of-the-3x-2x-phoenix-4.jpg)
+
+**Description:** The free games feature can be very volatile—this was an excellent win on 15 blue with a 334x payout.
+
+### Image 5
+
+![LEGEND OF THE 3X 2X PHOENIX](images/legend-of-the-3x-2x-phoenix-5.jpg)
+
+**Description:** Look for the large screen sticking out above the machine to easily spot these games in casinos.
+
 ## How The Advantage Works
 
 Legend of the 3X 2X Phoenix / Triple Double Diamond features **three must-hit-by meters** at 15:

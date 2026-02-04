@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/fortune-finders-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![FORTUNE FINDERS](images/fortune-finders-1.jpg)
+
+### Image 2
+
+![FORTUNE FINDERS](images/fortune-finders-2.jpg)
+
+**Description:** The free games bonus scatter symbols move down one row every spin.
+
+### Image 3
+
+![FORTUNE FINDERS](images/fortune-finders-3.jpg)
+
+**Description:** Landing three scatter symbols will trigger the free games bonus.
+
+### Image 4
+
+![FORTUNE FINDERS](images/fortune-finders-4.jpg)
+
+**Description:** In the Hidden Riches version, the scatter symbols are red crystals.
+
 ## How The Advantage Works
 
 Fortune Finders (Mermaid's Pearl / Hidden Riches) features **persistent scatter symbols**:

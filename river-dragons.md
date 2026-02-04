@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/river-dragons-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![River Dragons / Fire Wolf 2 / Forest Dragons / Winter of the Dragons / Wolf Queen](images/river-dragons-1.jpg)
+
+### Image 2
+
+![River Dragons / Fire Wolf 2 / Forest Dragons / Winter of the Dragons / Wolf Queen](images/river-dragons-2.jpg)
+
+**Description:** Neither of these numbers are even close to playable.
+
+### Image 3
+
+![River Dragons / Fire Wolf 2 / Forest Dragons / Winter of the Dragons / Wolf Queen](images/river-dragons-3.jpg)
+
+**Description:** The MHB $5k is still far away from a profitable number, but I wouldn’t be surprised if another AP jumps on this soon just to build up their player’s card.
+
+### Image 4
+
+![River Dragons / Fire Wolf 2 / Forest Dragons / Winter of the Dragons / Wolf Queen](images/river-dragons-4.jpg)
+
+**Description:** River Dragons can be fairly volatile—the amount of profit you make often comes down to how many good bonuses like this that you hit.
+
+### Image 5
+
+![River Dragons / Fire Wolf 2 / Forest Dragons / Winter of the Dragons / Wolf Queen](images/river-dragons-5.jpg)
+
+**Description:** Fire Wolf 2 plays just like River Dragons.
+
 ## How The Advantage Works
 
 River Dragons series features **two MHB progressive jackpots**:

@@ -58,6 +58,58 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/lucky-larrys-lobstermania-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![LUCKY LARRY](images/lucky-larrys-lobstermania-1.jpg)
+
+### Image 2
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-2.jpg)
+
+**Description:** This is a solid play with one coin collected in each of the Loot Awards above reels two, three and four.
+
+### Image 3
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-3.jpg)
+
+### Image 4
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-4.jpg)
+
+**Description:** Combining the Wild Stacks Loot Award with the King Stacks Loot Award can lead to nice wins such as this.
+
+### Image 5
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-5.jpg)
+
+**Description:** The Wild Stacks Loot Award can also be combined with the Double Symbols Loot Award.
+
+### Image 6
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-6.jpg)
+
+**Description:** Always play if there is a Bonus Loot Award present, as shown at the top of reel two.
+
+### Image 7
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-7.jpg)
+
+### Image 8
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-8.jpg)
+
+**Description:** The bucket bonus usually gives a solid payout, as opposed to the free games bonus, which is much more volatile.
+
+### Image 9
+
+![LUCKY LARRY'S LOBSTERMANIA](images/lucky-larrys-lobstermania-9.jpg)
+
 ## How The Advantage Works
 
 Lucky Larry's Lobstermania 4 Link / Super Sally's Shrimpmania 4 Link features **Loot Awards** above reels 2, 3, and 4:

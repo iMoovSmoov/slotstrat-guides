@@ -68,6 +68,74 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/fat-fortunes-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![FAT FORTUNES](images/fat-fortunes-1.jpg)
+
+### Image 2
+
+![FAT FORTUNES](images/fat-fortunes-2.jpg)
+
+**Description:** Landing six fish at once like this triggers the bonus.
+
+### Image 3
+
+![FAT FORTUNES](images/fat-fortunes-3.jpg)
+
+**Description:** The orange fish with credit prizes count towards the six fish needed for the bonus. This one landed me an extra $100 going into the bonus.
+
+### Image 4
+
+![FAT FORTUNES](images/fat-fortunes-4.jpg)
+
+**Description:** I hit the bonus on the previous spin for a $750 win. I have a good chance of hitting the bonus again on this next spin.
+
+### Image 5
+
+![FAT FORTUNES](images/fat-fortunes-5.jpg)
+
+**Description:** This was a nice 78x win in the bonus feature.
+
+### Image 6
+
+![FAT FORTUNES](images/fat-fortunes-6.jpg)
+
+**Description:** The bonus feature can be fairly volatile—this win was only 21x.
+
+### Image 7
+
+![FAT FORTUNES](images/fat-fortunes-7.jpg)
+
+**Description:** Notice the glimmer on the fish in the fifth reel—that indicates it is persistent and will move down one position next spin.
+
+### Image 8
+
+![FAT FORTUNES](images/fat-fortunes-8.jpg)
+
+### Image 9
+
+![FAT FORTUNES](images/fat-fortunes-9.jpg)
+
+**Description:** This is an even better play—there will be four persistent fish in play on the next spin.
+
+### Image 10
+
+![FAT FORTUNES](images/fat-fortunes-10.jpg)
+
+**Description:** This was a nice line hit, thanks to the wild penguin symbols that add a 2x multiplier to all wins.
+
+### Image 11
+
+![FAT FORTUNES](images/fat-fortunes-11.jpg)
+
+**Description:** You can get pretty good bonus wins, even on small bets.
+
 ## How The Advantage Works
 
 Fat Fortunes (Fat Cat / Puffy Penguin / Jelly Jams) features **persistent fish with shiny indicator**:

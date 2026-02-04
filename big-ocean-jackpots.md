@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/big-ocean-jackpots-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![BIG OCEAN JACKPOTS](images/big-ocean-jackpots-1.jpg)
+
+### Image 2
+
+![BIG OCEAN JACKPOTS](images/big-ocean-jackpots-2.jpg)
+
+**Description:** The wild bubbles (shown in reels two and four) are what make this game exploitable.
+
+### Image 3
+
+![BIG OCEAN JACKPOTS](images/big-ocean-jackpots-3.jpg)
+
+**Description:** Landing a bubble on top of the yellow coin shown here will trigger the bubbles. As you can see, the jackpot bubbles are extremely common.
+
+### Image 4
+
+![BIG OCEAN JACKPOTS](images/big-ocean-jackpots-4.jpg)
+
+**Description:** When a wild bubble lands on top of a coin, it will turn all of the poker symbols wild.
+
 ## How The Advantage Works
 
 Big Ocean Jackpots features **bubbles** that move up the reels:

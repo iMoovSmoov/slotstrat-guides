@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/ultra-rush-gold-x-bingwen--wei-yi-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Ultra Rush Gold X: Bingwen / Wei Yi](images/ultra-rush-gold-x-bingwen--wei-yi-1.jpg)
+
+### Image 2
+
+![Ultra Rush Gold X: Bingwen / Wei Yi](images/ultra-rush-gold-x-bingwen--wei-yi-2.jpg)
+
+**Description:** The game comes in four denominations, so there are plenty of opportunities to look for plays.
+
+### Image 3
+
+![Ultra Rush Gold X: Bingwen / Wei Yi](images/ultra-rush-gold-x-bingwen--wei-yi-3.jpg)
+
+**Description:** You can look directly on the bet pad to see any collected gold scatter symbols for all of the bet levels. This is an excellent play with three already collected on the $0.75 bet.
+
 ## How The Advantage Works
 
 Ultra Rush Gold X features **gold scatter accumulation for bonus trigger**:

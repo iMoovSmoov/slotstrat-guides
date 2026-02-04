@@ -48,6 +48,52 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/bubble-mania-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![BUBBLE MANIA](images/bubble-mania-1.jpg)
+
+### Image 2
+
+![BUBBLE MANIA](images/bubble-mania-2.jpg)
+
+**Description:** This is a solid play with the total value of both bubbles at $8, which is 10.6x the value of the bet.
+
+### Image 3
+
+![BUBBLE MANIA](images/bubble-mania-3.jpg)
+
+**Description:** Landing a bubble on top of the crystal ball symbol awards the credit value inside the bubble. Bubbles often come in clumps like you see on the bottom row.
+
+### Image 4
+
+![BUBBLE MANIA](images/bubble-mania-4.jpg)
+
+**Description:** This is an excellent play on the Hai Long version with the total bubble values worth 26x the bet.
+
+### Image 5
+
+![BUBBLE MANIA](images/bubble-mania-5.jpg)
+
+**Description:** Bubbles can appear below the bottom row, moving up the next spin. If the credit value on an upcoming bubble is obscured like this, I recommend just playing anyway to see what it is.
+
+### Image 6
+
+![BUBBLE MANIA](images/bubble-mania-6.jpg)
+
+**Description:** Giant bubbles like these are always worth playing, as you have more opportunities to trigger them (and you can trigger them more than once).
+
+### Image 7
+
+![BUBBLE MANIA](images/bubble-mania-7.jpg)
+
+**Description:** On Fizzy Frenzy, be on the lookout for green glowing bubbles like the one in the fifth reel—these move around randomly until triggered.
+
 ## How The Advantage Works
 
 Bubble Mania (Potion Pays / Hai Long / Fizzy Frenzy) features **persistent bubbles** with credit values:

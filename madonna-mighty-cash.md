@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/madonna-mighty-cash-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![MADONNA : MIGHTY CASH](images/madonna-mighty-cash-1.jpg)
+
+### Image 2
+
+![MADONNA : MIGHTY CASH](images/madonna-mighty-cash-2.jpg)
+
+**Description:** The total value of all multipliers is 18x, so this isn’t quite a play. It’s close enough that most hustlers would probably take it though.
+
+### Image 3
+
+![MADONNA : MIGHTY CASH](images/madonna-mighty-cash-3.jpg)
+
+**Description:** This is an excellent play on a $15 bet with the total value of the multipliers at 33x.
+
 ## How The Advantage Works
 
 Madonna: Mighty Cash features **accumulating multipliers for Mighty Cash bonus**:

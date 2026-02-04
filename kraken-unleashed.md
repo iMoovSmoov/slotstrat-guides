@@ -53,6 +53,58 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/kraken-unleashed-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-1.jpg)
+
+### Image 2
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-2.jpg)
+
+**Description:** Kraken Unleashed comes in three themes—Lobster Bay, Wild Vikings and Dive for Five. The persistent state feature is exactly the same in all three versions.
+
+### Image 3
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-3.jpg)
+
+**Description:** A solid bonus with the mini jackpot.
+
+### Image 4
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-4.jpg)
+
+**Description:** Most of the times you hit the bonus will look like this, where the six wood panels all came down from the top in a big stack in two columns.
+
+### Image 5
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-5.jpg)
+
+**Description:** Large credit value amounts like this (20x the bet) usually are just single tiles and don’t come in stacks of three or four like the smaller credit values.
+
+### Image 6
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-6.jpg)
+
+**Description:** Sometimes a bunch of wood panels will just randomly land on the reels like this, but it’s not very common.
+
+### Image 7
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-7.jpg)
+
+**Description:** Finding walk-up plays like this will give you an excellent chance of landing the bonus.
+
+### Image 8
+
+![KRAKEN UNLEASHED](images/kraken-unleashed-8.jpg)
+
+**Description:** The bonus can pay out very nicely, especially when you fill the board and land the multiplier.
+
 ## How The Advantage Works
 
 Kraken Unleashed (Lobster Bay / Wild Vikings / Dive for Five) features **wood panels** that shift down:

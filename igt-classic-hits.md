@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/igt-classic-hits-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![IGT CLASSIC HITS](images/igt-classic-hits-1.jpg)
+
+### Image 2
+
+![IGT CLASSIC HITS](images/igt-classic-hits-2.jpg)
+
+**Description:** This was a nice $396 line hit while closing in on the bottom MHB.
+
+### Image 3
+
+![IGT CLASSIC HITS](images/igt-classic-hits-3.jpg)
+
+**Description:** The meter on the bottom MHB is at 96.15%—anything 95% or above is playable.
+
+### Image 4
+
+![IGT CLASSIC HITS](images/igt-classic-hits-4.jpg)
+
+**Description:** This was an awesome walk-up play with the bottom meter already at 97%.
+
+### Image 5
+
+![IGT CLASSIC HITS](images/igt-classic-hits-5.jpg)
+
+**Description:** This extremely lucky 660x line hit occurred while I was chasing the $40 MHB.
+
 ## How The Advantage Works
 
 IGT Classic Hits features **three must-hit-by progressives at five bet levels**:

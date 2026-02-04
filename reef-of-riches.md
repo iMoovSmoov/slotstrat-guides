@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/reef-of-riches-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Reef of Riches](images/reef-of-riches-1.jpg)
+
+### Image 2
+
+![Reef of Riches](images/reef-of-riches-2.jpg)
+
+**Description:** The final tile (shown at the top of the fifth reel) can sometimes take a long time to trigger.
+
+### Image 3
+
+![Reef of Riches](images/reef-of-riches-3.jpg)
+
+**Description:** You can look directly on the bet pad to see the number of tiles remaining for each bet level.
+
 ## How The Advantage Works
 
 Reef of Riches features **tile shattering for bonus trigger**:

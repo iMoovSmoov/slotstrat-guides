@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/blazin-diamond--lightning-wilds-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Blazin' Diamond / Lightning Wilds](images/blazin-diamond--lightning-wilds-1.jpg)
+
+### Image 2
+
+![Blazin' Diamond / Lightning Wilds](images/blazin-diamond--lightning-wilds-2.jpg)
+
+**Description:** The Pay Upgrade feature is active for one more spin, and this was a solid line hit thanks to that 2x multiplier boosting the payout!
+
+### Image 3
+
+![Blazin' Diamond / Lightning Wilds](images/blazin-diamond--lightning-wilds-3.jpg)
+
+### Image 4
+
+![Blazin' Diamond / Lightning Wilds](images/blazin-diamond--lightning-wilds-4.jpg)
+
+**Description:** The progressive jackpots can only be won when playing at max bet.
+
 ## How The Advantage Works
 
 Blazin' Diamond / Lightning Wilds features a **Pay Upgrade mode**:

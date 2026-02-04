@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/tian-ci-jin-lu-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![TIAN CI JIN LU](images/tian-ci-jin-lu-1.jpg)
+
+### Image 2
+
+![TIAN CI JIN LU](images/tian-ci-jin-lu-2.jpg)
+
+**Description:** The jackpot to pay attention to is the $246.08 one at the top of the screen in the middle (this particular number is way too low to be playable).
+
+### Image 3
+
+![TIAN CI JIN LU](images/tian-ci-jin-lu-3.jpg)
+
+**Description:** The rules screen explaining how the MHB works.
+
 ## How The Advantage Works
 
 Tian Ci Jin Lu features **a $300 MHB progressive**:

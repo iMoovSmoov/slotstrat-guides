@@ -48,6 +48,48 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wu-dragon-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![WU DRAGON / STAR GODDESS](images/wu-dragon-1.jpg)
+
+### Image 2
+
+![WU DRAGON / STAR GODDESS](images/wu-dragon-2.jpg)
+
+**Description:** This is the ideal kind of play you are looking for. You are guaranteed five wilds across on the second row from the top and five-of-a-kind on the bottom row.
+
+### Image 3
+
+![WU DRAGON / STAR GODDESS](images/wu-dragon-3.jpg)
+
+### Image 4
+
+![WU DRAGON / STAR GODDESS](images/wu-dragon-4.jpg)
+
+**Description:** Entire rows of wilds pay very well. Even with the bonus symbol blocking me on the bottom row, this was a nice win.
+
+### Image 5
+
+![WU DRAGON / STAR GODDESS](images/wu-dragon-5.jpg)
+
+**Description:** Only check the bottom row bets with the Portal Lock feature. The frames in the top row bets are not persistent—they disappear after every spin.
+
+### Image 6
+
+![WU DRAGON / STAR GODDESS](images/wu-dragon-6.jpg)
+
+**Description:** This is an awesome walk-up play I found. It’s common to find scenarios like this where ploppies play for a while and then give up because the machine isn’t paying out.
+
+### Image 7
+
+![WU DRAGON / STAR GODDESS](images/wu-dragon-7.jpg)
+
 ## How The Advantage Works
 
 Wu Dragon / Star Goddess features **persistent frames** with fireball mechanic:

@@ -28,6 +28,26 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/moon-spirit-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![MOON SPIRIT](images/moon-spirit-1.jpg)
+
+### Image 2
+
+![MOON SPIRIT](images/moon-spirit-3.jpg)
+
+### Image 3
+
+![MOON SPIRIT](images/moon-spirit-4.jpg)
+
+**Description:** A nice payout thanks to the five-of-a-kind line hits on the bottom two rows.
+
 ## How The Advantage Works
 
 Moon Spirit operates on a **10-game cycle with horizontally expanding wilds**:

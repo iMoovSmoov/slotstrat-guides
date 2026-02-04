@@ -93,6 +93,98 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/lucky-pick-bumble-bee--cash-tree--leprechaun-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-1.jpg)
+
+### Image 2
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-2.jpg)
+
+**Description:** Landing the Lucky Pick symbol (shown in the middle reel) will let you choose one of the picks on the board above (there are only two picks remaining).
+
+### Image 3
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-3.jpg)
+
+**Description:** After the free games bonus ends, the board is reset and three random non-credit picks are revealed. This is the best possible reset scenario, with three wilds revealed.
+
+### Image 4
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-4.jpg)
+
+**Description:** During the free games bonus, you can get massive line hits thanks to the wilds and multipliers.
+
+### Image 5
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-5.jpg)
+
+### Image 6
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-6.jpg)
+
+### Image 7
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-7.jpg)
+
+**Description:** This is the worst possible setup you can find with two wilds revealed. I would skip this play unless I knew I was on a higher RTP or if I was trying to build points.
+
+### Image 8
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-8.jpg)
+
+### Image 9
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-9.jpg)
+
+**Description:** We know we are on board D here because there are 10 credit picks revealed. Therefore, there is another wild remaining and we have a good chance of revealing it because there are only five picks left.
+
+### Image 10
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-10.jpg)
+
+**Description:** Plays like this might look tempting because there are a lot of picks revealed, but I would skip this because there are no wilds.
+
+### Image 11
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-11.jpg)
+
+**Description:** This is a common type of play that you will find. It might look promising because of the three multipliers, but with just one wild, it is too risky.
+
+### Image 12
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-12.jpg)
+
+### Image 13
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-13.jpg)
+
+**Description:** With just one wild, this is a mediocre play. But with only 10 picks remaining, plays like these are +EV over the long run.
+
+### Image 14
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-14.jpg)
+
+**Description:** We know we are on board B here because of the two +3 free games. Board B is the lowest-paying board and there are 14 picks remaining, so I would pass on this play.
+
+### Image 15
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-15.jpg)
+
+**Description:** I would never play a setup like this. We know we are on the worst-paying board (B) and there are no wilds revealed.
+
+### Image 16
+
+![Lucky Pick: Bumble Bee / Cash Tree / Leprechaun](images/lucky-pick-bumble-bee--cash-tree--leprechaun-16.jpg)
+
+**Description:** This is another example of a board that I would never play. It’s too early to determine what board we are on, but without any wilds, it is way too risky.
+
 ## How The Advantage Works
 
 Lucky Pick features a **21-pick board with free games bonus**:

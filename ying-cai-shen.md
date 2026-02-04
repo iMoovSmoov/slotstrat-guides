@@ -23,6 +23,22 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/ying-cai-shen-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Ying Cai Shen](images/ying-cai-shen-1.jpg)
+
+### Image 2
+
+![Ying Cai Shen](images/ying-cai-shen-2.jpg)
+
+**Description:** Reel three will be wild for two more spins, while reel four will be wild for one more spin.
+
 ## How The Advantage Works
 
 Ying Cai Shen features **coin holders** below reels 3, 4, and 5 only:

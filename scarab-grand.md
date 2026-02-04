@@ -28,6 +28,26 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/scarab-grand-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![SCARAB GRAND](images/scarab-grand-1.jpg)
+
+### Image 2
+
+![SCARAB GRAND](images/scarab-grand-2.jpg)
+
+### Image 3
+
+![SCARAB GRAND](images/scarab-grand-3.jpg)
+
+**Description:** The next spin will lead to a huge win with this many locked frames.
+
 ## How The Advantage Works
 
 Scarab Grand operates on a **10-game cycle** with frame collection:

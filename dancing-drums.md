@@ -18,6 +18,16 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/dancing-drums-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Dancing Drums](images/dancing-drums-1.jpg)
+
 ## How The Advantage Works
 
 Dancing Drums features **persistent fu bat symbols** displayed above the reels:

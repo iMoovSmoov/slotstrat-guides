@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/rising-phoenix-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Rising Phoenix](images/rising-phoenix-1.jpg)
+
+### Image 2
+
+![Rising Phoenix](images/rising-phoenix-2.jpg)
+
+### Image 3
+
+![Rising Phoenix](images/rising-phoenix-3.jpg)
+
+**Description:** The total multipliers on the wheel add up to 47x here, so this is a play even with two flames collected.
+
+### Image 4
+
+![Rising Phoenix](images/rising-phoenix-4.jpg)
+
+**Description:** You can look directly on the bet pad to see the flames collected for each bet level.
+
 ## How The Advantage Works
 
 Rising Phoenix features a **multiplier wheel** with flame meter:

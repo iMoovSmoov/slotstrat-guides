@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/diamond-collector-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![DIAMOND COLLECTOR](images/diamond-collector-1.jpg)
+
+### Image 2
+
+![DIAMOND COLLECTOR](images/diamond-collector-3.jpg)
+
+**Description:** This is an excellent play with only one diamond needed to trigger the bonus.
+
+### Image 3
+
+![DIAMOND COLLECTOR](images/diamond-collector-4.jpg)
+
+**Description:** Once the free spins bonus is triggered, all of the collected diamonds reveal modifiers that enhance the bonus.
+
 ## How The Advantage Works
 
 Diamond Collector (Wolfpack / Elite 7's) features **diamond collection** that triggers a free spins bonus:

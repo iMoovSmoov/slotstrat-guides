@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/crush-conquest--crush-dynasty-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Crush Conquest / Crush Dynasty](images/crush-conquest--crush-dynasty-1.jpg)
+
+### Image 2
+
+![Crush Conquest / Crush Dynasty](images/crush-conquest--crush-dynasty-2.jpg)
+
+**Description:** Boulders with a lot of cracks like this are not any more likely to break on the next spin.
+
+### Image 3
+
+![Crush Conquest / Crush Dynasty](images/crush-conquest--crush-dynasty-3.jpg)
+
+**Description:** The pink boulder is the premium boulder in Crush Conquest. This is a solid play because it is within the first three positions of the queue.
+
+### Image 4
+
+![Crush Conquest / Crush Dynasty](images/crush-conquest--crush-dynasty-4.jpg)
+
+**Description:** The white boulder (shown in the back of the queue on the right) is the premium boulder in Crush Dynasty. This one was a little too far back to chase after.
+
 ## How The Advantage Works
 
 Crush Conquest / Crush Dynasty features **boulder crushing** (no reels):

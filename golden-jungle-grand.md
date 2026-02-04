@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/golden-jungle-grand-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![GOLDEN JUNGLE GRAND](images/golden-jungle-grand-1.jpg)
+
+### Image 2
+
+![GOLDEN JUNGLE GRAND](images/golden-jungle-grand-2.jpg)
+
+**Description:** This is a walk-up play I found that someone had abandoned on spin 9 of 10.
+
+### Image 3
+
+![GOLDEN JUNGLE GRAND](images/golden-jungle-grand-3.jpg)
+
+### Image 4
+
+![GOLDEN JUNGLE GRAND](images/golden-jungle-grand-4.jpg)
+
+**Description:** Plays like this present an excellent opportunity for a big win.
+
 ## How The Advantage Works
 
 Golden Jungle Grand operates on a **10-game cycle** with buddha collection:

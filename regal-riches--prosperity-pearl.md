@@ -48,6 +48,48 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/regal-riches--prosperity-pearl-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![REGAL RICHES / PROSPERITY PEARL](images/regal-riches--prosperity-pearl-1.jpg)
+
+### Image 2
+
+![REGAL RICHES / PROSPERITY PEARL](images/regal-riches--prosperity-pearl-2.jpg)
+
+### Image 3
+
+![REGAL RICHES / PROSPERITY PEARL](images/regal-riches--prosperity-pearl-3.jpg)
+
+### Image 4
+
+![REGAL RICHES / PROSPERITY PEARL](images/regal-riches--prosperity-pearl-4.jpg)
+
+**Description:** This is a great situation to be in, with green at 90, purple at 60 and blue at 22.
+
+### Image 5
+
+![REGAL RICHES / PROSPERITY PEARL](images/regal-riches--prosperity-pearl-5.jpg)
+
+**Description:** It’s common to exceed the MHB amount when entering the free games feature—if purple is at 74 and you collect four more purple wilds, then you will go into the feature with 78.
+
+### Image 6
+
+![REGAL RICHES / PROSPERITY PEARL](images/regal-riches--prosperity-pearl-6.jpg)
+
+**Description:** Check your BLUES. Someone left this at 20 blues.
+
+### Image 7
+
+![REGAL RICHES / PROSPERITY PEARL](images/regal-riches--prosperity-pearl-7.jpg)
+
+**Description:** Walked up on 20 blues, 3 spins later picked up $37.50 on a .75 bet.
+
 ## How The Advantage Works
 
 Regal Riches / Prosperity Pearl features **MHB progressive wilds**:

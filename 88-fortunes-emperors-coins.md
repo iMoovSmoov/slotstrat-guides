@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/88-fortunes-emperors-coins-1.png)
+
+## Gameplay Images
+
+### Image 1
+
+![88 Fortunes Emperor's Coins](images/88-fortunes-emperors-coins-1.png)
+
+### Image 2
+
+![88 Fortunes Emperor's Coins](images/88-fortunes-emperors-coins-2.jpeg)
+
+**Description:** Free game COUNTER # is 17
+
+### Image 3
+
+![88 Fortunes Emperor's Coins](images/88-fortunes-emperors-coins-3.jpeg)
+
+**Description:** Free game COUNTER shown for each bet level
+
 ## How The Advantage Works
 
 88 Fortunes Emperor's Coins features a **must-hit-by free games counter**:

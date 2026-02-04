@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/block-bonanza-hawaii-rio-1.png)
+
+## Gameplay Images
+
+### Image 1
+
+![BLOCK BONANZA](images/block-bonanza-hawaii-rio-1.png)
+
+### Image 2
+
+![BLOCK BONANZA](images/block-bonanza-hawaii-rio-2.jpeg)
+
+**Description:** The large yellow blocks (83.3x your bet size) like this are the best possible play, but they are rare to find.
+
+### Image 3
+
+![BLOCK BONANZA](images/block-bonanza-hawaii-rio-3.jpeg)
+
+**Description:** Landing dollar symbols in all five reels always pays very well because the largest blocks are in reels four and five.
+
+### Image 4
+
+![BLOCK BONANZA](images/block-bonanza-hawaii-rio-4.jpeg)
+
+**Description:** Your block wins will often come in the free games bonus. In the Hawaii theme of Block Bonanza, the surfer symbols count as dollar symbols during the free games.
+
+### Image 5
+
+![BLOCK BONANZA](images/block-bonanza-hawaii-rio-5.jpeg)
+
+**Description:** Oftentimes you won’t hit the block you are chasing after, as happened here. But it was still a nice win, thanks to the dollar symbol in reel four.
+
 ## How The Advantage Works
 
 Block Bonanza (Hawaii / Rio) features **colored blocks** with credit values above the reels:

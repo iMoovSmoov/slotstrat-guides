@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/mammoth-legend-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Mammoth Legend](images/mammoth-legend-1.jpg)
+
+### Image 2
+
+![Mammoth Legend](images/mammoth-legend-2.jpg)
+
+**Description:** You are looking for one coin remaining directly above reel five.
+
+### Image 3
+
+![Mammoth Legend](images/mammoth-legend-3.jpg)
+
+**Description:** Once there is only one coin remaining, you are guaranteed to get the Volcano Bonus on your next pick.
+
+### Image 4
+
+![Mammoth Legend](images/mammoth-legend-4.jpg)
+
+**Description:** In the Volcano Bonus, you are guaranteed to win one of the jackpots. If you only get the mini, then you are likely to lose money on the play.
+
+### Image 5
+
+![Mammoth Legend](images/mammoth-legend-5.jpg)
+
+**Description:** The Mammoth Bonus can pay very well, especially if you get a multiplier.
+
 ## How The Advantage Works
 
 Mammoth Legend features **coin elimination for guaranteed Volcano Bonus**:

@@ -43,6 +43,46 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/gift-of-the-nile-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![GIFT OF THE NILE](images/gift-of-the-nile-1.jpg)
+
+### Image 2
+
+![GIFT OF THE NILE](images/gift-of-the-nile-2.jpg)
+
+**Description:** The stack of wilds in the upcoming queue above the first reel will enter into play within two spins.
+
+### Image 3
+
+![GIFT OF THE NILE](images/gift-of-the-nile-3.jpg)
+
+**Description:** This is an excellent play. There are wilds in the active reel area within the first three reels, with more coming in the queue above.
+
+### Image 4
+
+![GIFT OF THE NILE](images/gift-of-the-nile-4.jpg)
+
+**Description:** The free games bonus symbols are not persistent, so this is not a play.
+
+### Image 5
+
+![GIFT OF THE NILE](images/gift-of-the-nile-5.jpg)
+
+**Description:** This is not a play. The two wilds in the upcoming queue are not on the same row and they are far enough back where it’s not worth the cost to bring them into play.
+
+### Image 6
+
+![GIFT OF THE NILE](images/gift-of-the-nile-6.jpg)
+
+**Description:** **The Dragon Flame version plays the same for advantage purposes.
+
 ## How The Advantage Works
 
 Gift of the Nile / Dragon Flame features **persistent wilds with visible queue**:

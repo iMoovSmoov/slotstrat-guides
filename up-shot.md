@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/up-shot-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![UP SHOT](images/up-shot-1.jpg)
+
+### Image 2
+
+![UP SHOT](images/up-shot-3.jpg)
+
+**Description:** Play if there are any locked spins remaining, as shown on reel four.
+
+### Image 3
+
+![UP SHOT](images/up-shot-4.jpg)
+
+**Description:** The pinball launching feature is super fun, but it’s not actually skill-based.
+
 ## How The Advantage Works
 
 Upshot features **locked bonus scatters for bonus trigger**:

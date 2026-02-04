@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/bubble-blast-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Bubble Blast / Spells ’N Whistles / Trials of Atlantis](images/bubble-blast-1.jpg)
+
+### Image 2
+
+![Bubble Blast / Spells ’N Whistles / Trials of Atlantis](images/bubble-blast-2.jpg)
+
+**Description:** The bubbles with credit values are awarded when they land on top of the blue portal “catcher” symbols. This is a solid play with the total value of both bubbles at $5, which is 10x the bet size.
+
+### Image 3
+
+![Bubble Blast / Spells ’N Whistles / Trials of Atlantis](images/bubble-blast-3.jpg)
+
+**Description:** The Mini and Maxi jackpots can also appear inside the bubbles.
+
+### Image 4
+
+![Bubble Blast / Spells ’N Whistles / Trials of Atlantis](images/bubble-blast-4.jpg)
+
+**Description:** Bubbles can appear below the reels and will move into play next spin.
+
 ## How The Advantage Works
 
 Bubble Blast / Spells 'N Whistles / Trials of Atlantis features **persistent bubbles** with credit values:

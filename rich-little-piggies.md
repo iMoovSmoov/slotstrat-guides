@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/rich-little-piggies-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![RICH LITTLE PIGGIES](images/rich-little-piggies-1.jpg)
+
+### Image 2
+
+![RICH LITTLE PIGGIES](images/rich-little-piggies-2.jpg)
+
+**Description:** Look for all three pigs to be this fat and sweaty. If you see 3 chins, that is a max pig size.
+
+### Image 3
+
+![RICH LITTLE PIGGIES](images/rich-little-piggies-3.jpg)
+
+**Description:** Triggering the feature with multiple pigs happens fairly frequently. But it is also usually a small payout if you get a pig alone.
+
+### Image 4
+
+![RICH LITTLE PIGGIES](images/rich-little-piggies-4.jpg)
+
+**Description:** $22.50 is risky, but at 38 blue this is still tempting. Play if you have $2k bankroll.
+
 ## How The Advantage Works
 
 Rich Little Piggies features **three progressive pigs** that build up over time:

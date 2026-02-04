@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/blazing-x-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Blazing X](images/blazing-x-1.jpg)
+
+### Image 2
+
+![Blazing X](images/blazing-x-2.jpg)
+
+**Description:** The wild symbol landed in the middle reel and increased the multiplier to 25x. It will remain for three additional spins. Finding the game in this state is an excellent play.
+
+### Image 3
+
+![Blazing X](images/blazing-x-3.jpg)
+
+**Description:** This play resulted in a profit of $188 in just a few spins.
+
+### Image 4
+
+![Blazing X](images/blazing-x-4.jpg)
+
+**Description:** You can check this machine by looking directly on the bet pad. You can see the multipliers and number of chances remaining above each bet level.
+
 ## How The Advantage Works
 
 Blazing X features **persistent multipliers** that activate when wild symbols land:

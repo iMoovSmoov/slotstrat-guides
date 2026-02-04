@@ -38,6 +38,38 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/ocean-magic-grand-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![OCEAN MAGIC GRAND](images/ocean-magic-grand-1.jpg)
+
+### Image 2
+
+![OCEAN MAGIC GRAND](images/ocean-magic-grand-2.jpg)
+
+**Description:** This is an excellent walk-up play that I found. Bubbles often come in big spurts like this.
+
+### Image 3
+
+![OCEAN MAGIC GRAND](images/ocean-magic-grand-3.jpg)
+
+### Image 4
+
+![OCEAN MAGIC GRAND](images/ocean-magic-grand-4.jpg)
+
+**Description:** Getting multiple wild bubbles to expand at once can lead to huge wins like this.
+
+### Image 5
+
+![OCEAN MAGIC GRAND](images/ocean-magic-grand-5.jpg)
+
+**Description:** The free games bonus is tough to land, but it can pay very well.
+
 ## How The Advantage Works
 
 Ocean Magic Grand features **wild bubbles that move UP**:

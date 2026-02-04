@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/fortune-owl-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Fortune Owl](images/fortune-owl-1.jpg)
+
+### Image 2
+
+![Fortune Owl](images/fortune-owl-2.jpg)
+
+**Description:** Landing two bonus scatter symbols along with one of the progressive free games symbols in reel four will trigger the corresponding bonus.
+
+### Image 3
+
+![Fortune Owl](images/fortune-owl-3.jpg)
+
+**Description:** You can look directly on the bet pad to see the number of free games on all bet levels.
+
 ## How The Advantage Works
 
 Fortune Owl features **three progressive free games meters** (NOT must-hit-by):

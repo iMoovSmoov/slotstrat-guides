@@ -63,6 +63,64 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/treasure-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![TREASURE](images/treasure-1.jpg)
+
+### Image 2
+
+![TREASURE](images/treasure-3.jpg)
+
+### Image 3
+
+![TREASURE](images/treasure-4.jpg)
+
+**Description:** Spin 1 of 3: The panda symbol counts as a wild on the spin it lands and will stay as a persistent wild on the next spin (along with the other red wild symbols).
+
+### Image 4
+
+![TREASURE](images/treasure-5.jpg)
+
+### Image 5
+
+![TREASURE](images/treasure-6.jpg)
+
+### Image 6
+
+![TREASURE](images/treasure-7.jpg)
+
+**Description:** Spin 1 of 5: The pirate symbols will turn into persistent wild symbols on the next spin.
+
+### Image 7
+
+![TREASURE](images/treasure-8.jpg)
+
+**Description:** Spin 2 of 5: A cannon symbol landed in the first reel to keep the streak going.
+
+### Image 8
+
+![TREASURE](images/treasure-9.jpg)
+
+**Description:** Spin 3 of 5: A pirate symbol landed to continue the streak.
+
+### Image 9
+
+![TREASURE](images/treasure-10.jpg)
+
+**Description:** Spin 4 of 5: Another cannon symbol landed to continue the streak. Having taller reels like this gives you more chances to land subsequent symbols to keep the play alive.
+
+### Image 10
+
+![TREASURE](images/treasure-11.jpg)
+
+**Description:** Spin 5 of 5: No more cannon or pirate symbols landed, so the play is now dead (notice the blue background). I made a profit of $1,602 on this play (without a W-2G).
+
 ## How The Advantage Works
 
 Treasure features **persistent wilds with background state indicator**:

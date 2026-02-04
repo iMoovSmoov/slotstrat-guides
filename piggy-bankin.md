@@ -38,6 +38,38 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/piggy-bankin-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Piggy Bankin'](images/piggy-bankin-1.jpg)
+
+### Image 2
+
+![Piggy Bankin'](images/piggy-bankin-2.jpg)
+
+### Image 3
+
+![Piggy Bankin'](images/piggy-bankin-3.jpg)
+
+**Description:** There are now eight pigs remaining. You can see the outline of the pig that marched up from the bottom.
+
+### Image 4
+
+![Piggy Bankin'](images/piggy-bankin-4.jpg)
+
+**Description:** Landing these multiplier symbols adds coins to the piggy bank.
+
+### Image 5
+
+![Piggy Bankin'](images/piggy-bankin-5.jpg)
+
+**Description:** The jackpot pick bonus is triggered after you find the lucky coin.
+
 ## How The Advantage Works
 
 Piggy Bankin' features a **jackpot pick bonus** with the following mechanics:

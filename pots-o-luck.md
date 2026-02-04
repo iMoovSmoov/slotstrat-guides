@@ -33,6 +33,32 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/pots-o-luck-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![POTS O' LUCK](images/pots-o-luck-1.jpg)
+
+### Image 2
+
+![POTS O' LUCK](images/pots-o-luck-2.jpg)
+
+### Image 3
+
+![POTS O' LUCK](images/pots-o-luck-3.jpg)
+
+**Description:** The glowing gold borders (and 2x and 3x symbols) stay on the reels when switching between bet levels. This makes the game difficult to hustle.
+
+### Image 4
+
+![POTS O' LUCK](images/pots-o-luck-4.jpg)
+
+**Description:** The middle reel here looks like it has two wild spins remaining. But look closely and you will notice the background behind the coins is green (rather than orange), so this is not a play.
+
 ## How The Advantage Works
 
 Pots O' Luck features **coin collection for wild reels**:

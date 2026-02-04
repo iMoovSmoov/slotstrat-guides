@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wolf-run-eclipse-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![WOLF RUN ECLIPSE](images/wolf-run-eclipse-1.jpg)
+
+### Image 2
+
+![WOLF RUN ECLIPSE](images/wolf-run-eclipse-3.jpg)
+
+**Description:** Cats Wild Serengeti is a newer sister title to Wolf Run Eclipse.
+
+### Image 3
+
+![WOLF RUN ECLIPSE](images/wolf-run-eclipse-4.jpg)
+
+**Description:** The mega might seem high at 147 free games, but it starts at 100. It’s nearly impossible to hit, so I don’t recommend ever directly chasing it.
+
+### Image 4
+
+![WOLF RUN ECLIPSE](images/wolf-run-eclipse-5.jpg)
+
+**Description:** Even the mini can pay very well when the number of free games runs this high.
+
 ## How The Advantage Works
 
 Wolf Run Eclipse / Cats Wild Serengeti features **four progressive free games meters** (NOT must-hit-by):

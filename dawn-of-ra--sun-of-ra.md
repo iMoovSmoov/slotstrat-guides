@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/dawn-of-ra--sun-of-ra-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Dawn of Ra / Sun of Ra](images/dawn-of-ra--sun-of-ra-1.jpg)
+
+### Image 2
+
+![Dawn of Ra / Sun of Ra](images/dawn-of-ra--sun-of-ra-2.jpg)
+
+**Description:** A full stack of pyramids landed in reel three, so the entire stack will persist in that reel for three additional spins (notice the filled-in indicators below the reel).
+
+### Image 3
+
+![Dawn of Ra / Sun of Ra](images/dawn-of-ra--sun-of-ra-3.jpg)
+
+**Description:** The sun symbols in reels one, two, three and five, combined with the persistent pyramid stack in reel four, triggered the credit prizes.
+
+### Image 4
+
+![Dawn of Ra / Sun of Ra](images/dawn-of-ra--sun-of-ra-4.jpg)
+
+**Description:** The rules screen shows that reels four and five can contain much larger credit prizes compared to reel three.
+
 ## How The Advantage Works
 
 Dawn of Ra / Sun of Ra features **persistent pyramid stacks**:

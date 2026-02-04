@@ -43,6 +43,44 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/diamonds--devils--jade-monkey-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![DIAMONDS & DEVILS / JADE MONKEY](images/diamonds--devils--jade-monkey-1.jpg)
+
+### Image 2
+
+![DIAMONDS & DEVILS / JADE MONKEY](images/diamonds--devils--jade-monkey-2.jpg)
+
+### Image 3
+
+![DIAMONDS & DEVILS / JADE MONKEY](images/diamonds--devils--jade-monkey-3.jpg)
+
+**Description:** You can tell the credit prize above reel four is at reset due to its silver color.
+
+### Image 4
+
+![DIAMONDS & DEVILS / JADE MONKEY](images/diamonds--devils--jade-monkey-4.jpg)
+
+**Description:** This is an excellent play—I ended up triggering both of the free games prizes.
+
+### Image 5
+
+![DIAMONDS & DEVILS / JADE MONKEY](images/diamonds--devils--jade-monkey-5.jpg)
+
+**Description:** It’s rare to find credit values that run this high—this one is 40x the bet.
+
+### Image 6
+
+![DIAMONDS & DEVILS / JADE MONKEY](images/diamonds--devils--jade-monkey-6.jpg)
+
+**Description:** Even without any diamonds collected, 32 free games is always a play.
+
 ## How The Advantage Works
 
 Diamonds & Devils / Jade Monkey features **diamond collection with devil/monkey risk**:

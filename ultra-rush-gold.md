@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/ultra-rush-gold-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![ULTRA RUSH GOLD](images/ultra-rush-gold-1.jpg)
+
+### Image 2
+
+![ULTRA RUSH GOLD](images/ultra-rush-gold-3.jpg)
+
+**Description:** The gold wheel scatter symbol (shown in the middle reel) awards the player a wheel spin in the bonus, so it is more valuable than the credit value gold scatter symbols (shown in reels four and five).
+
+### Image 3
+
+![ULTRA RUSH GOLD](images/ultra-rush-gold-4.jpg)
+
+**Description:** These two $50 gold scatter symbols are exceptionally large for a $1 bet.
+
+### Image 4
+
+![ULTRA RUSH GOLD](images/ultra-rush-gold-5.jpg)
+
+**Description:** The bonus usually pays very well, especially if you can land a wheel spin.
+
 ## How The Advantage Works
 
 Ultra Rush Gold (Panda's Treasure / Pirate's Treasure) features **gold scatter locking**:

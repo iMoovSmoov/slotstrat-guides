@@ -33,6 +33,34 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/colossal-titans-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Colossal Titans](images/colossal-titans-1.jpg)
+
+### Image 2
+
+![Colossal Titans](images/colossal-titans-2.jpg)
+
+**Description:** The lightning bolt sub-symbol landed in reel three and randomly charged some of the meters above. This is an excellent play with the multipliers totaling 18x.
+
+### Image 3
+
+![Colossal Titans](images/colossal-titans-3.jpg)
+
+**Description:** The Zeus symbol had a 6x multiplier applied to it.
+
+### Image 4
+
+![Colossal Titans](images/colossal-titans-4.jpg)
+
+**Description:** Like most IGT games, the free spins bonus is difficult to trigger but usually pays well.
+
 ## How The Advantage Works
 
 Colossal Titans features **eight meters** above the reels for each symbol:

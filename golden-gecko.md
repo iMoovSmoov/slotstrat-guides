@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/golden-gecko-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Golden Gecko](images/golden-gecko-1.jpg)
+
+### Image 2
+
+![Golden Gecko](images/golden-gecko-2.jpg)
+
+**Description:** The gold jewels add multipliers to the wilds, but they are extremely common, and as such, are not worth chasing.
+
+### Image 3
+
+![Golden Gecko](images/golden-gecko-3.jpg)
+
+**Description:** This is an excellent (although still high variance) play, with four active red jewels.
+
 ## How The Advantage Works
 
 Golden Gecko features **colored jewels with progressive jackpots**:

@@ -38,6 +38,40 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/sphinx-4d-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Sphinx 4D](images/sphinx-4d-1.jpg)
+
+### Image 2
+
+![Sphinx 4D](images/sphinx-4d-2.jpg)
+
+**Description:** This is an excellent play with a wild sphere at the top of the middle reel.
+
+### Image 3
+
+![Sphinx 4D](images/sphinx-4d-3.jpg)
+
+**Description:** The wild sphere landed on top of the lion symbol which caused it to expand for a nice win.
+
+### Image 4
+
+![Sphinx 4D](images/sphinx-4d-4.jpg)
+
+**Description:** I recommend stopping playing when the wild spheres in reels one and four reach the second row from the bottom because there isn’t as much room for the spheres to fully expand.
+
+### Image 5
+
+![Sphinx 4D](images/sphinx-4d-5.jpg)
+
+**Description:** This is not a play because the wild spheres will move down and off screen next spin.
+
 ## How The Advantage Works
 
 Sphinx 4D features **wild spheres** that move down (unlike Ocean Magic which moves up):

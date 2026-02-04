@@ -28,6 +28,26 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/phoenix-888-dragon-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Phoenix 888 Dragon](images/phoenix-888-dragon-1.jpg)
+
+### Image 2
+
+![Phoenix 888 Dragon](images/phoenix-888-dragon-2.jpg)
+
+**Description:** The bottom MHB $500 progressive usually hits at a random point between $490 and $499.99, so it is likely to hit soon.
+
+### Image 3
+
+![Phoenix 888 Dragon](images/phoenix-888-dragon-3.jpg)
+
 ## How The Advantage Works
 
 Phoenix 888 Dragon features **two must-hit-by progressive jackpots**:

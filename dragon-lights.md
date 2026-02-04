@@ -43,6 +43,46 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/dragon-lights-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![DRAGON LIGHTS](images/dragon-lights-1.jpg)
+
+### Image 2
+
+![DRAGON LIGHTS](images/dragon-lights-2.jpg)
+
+**Description:** **You can look directly on the bet pad to see the meters on all bet levels.
+
+### Image 3
+
+![DRAGON LIGHTS](images/dragon-lights-3.jpg)
+
+**Description:** The average hit point of the mini is 8 free games, so it’s rare (but not unheard of) to run this high.
+
+### Image 4
+
+![DRAGON LIGHTS](images/dragon-lights-4.jpg)
+
+**Description:** The major at 64 free games is a solid (but still super volatile) play.
+
+### Image 5
+
+![DRAGON LIGHTS](images/dragon-lights-5.jpg)
+
+**Description:** Hitting the mega while chasing the mini.
+
+### Image 6
+
+![DRAGON LIGHTS](images/dragon-lights-6.jpg)
+
+**Description:** Even with only 22 free games, the mega paid out nicely for a $2.50 bet.
+
 ## How The Advantage Works
 
 Dragon Lights (Fortune Skies / Mystical Falls / Secret Fortress) features **four progressive free games meters**:

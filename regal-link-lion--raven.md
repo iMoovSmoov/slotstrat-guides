@@ -43,6 +43,44 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/regal-link-lion--raven-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Regal Link: Lion / Raven](images/regal-link-lion--raven-1.jpg)
+
+### Image 2
+
+![Regal Link: Lion / Raven](images/regal-link-lion--raven-2.jpg)
+
+**Description:** This is a solid play with 10 silver wilds collected (shown directly above the middle reel).
+
+### Image 3
+
+![Regal Link: Lion / Raven](images/regal-link-lion--raven-3.jpg)
+
+**Description:** The credit prizes in the cash wilds are awarded regardless of forming any line hits.
+
+### Image 4
+
+![Regal Link: Lion / Raven](images/regal-link-lion--raven-4.jpg)
+
+### Image 5
+
+![Regal Link: Lion / Raven](images/regal-link-lion--raven-5.jpg)
+
+**Description:** The bonuses are much higher variance compared to the original Regal Riches. This emerald paid nearly 200x.
+
+### Image 6
+
+![Regal Link: Lion / Raven](images/regal-link-lion--raven-6.jpg)
+
+**Description:** The bet pad doesn’t show the meters like the original Regal Riches, so this game is more of a hassle to check.
+
 ## How The Advantage Works
 
 Regal Link features **cash wilds with MHB meters**:

@@ -28,6 +28,28 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/dragonsphere-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![DRAGON SPHERE](images/dragonsphere-1.jpg)
+
+### Image 2
+
+![DRAGON SPHERE](images/dragonsphere-2.jpg)
+
+**Description:** The wild sphere above reel four will move down into play next spin. Hustlers often overlook these, so it’s a good opportunity to find plays.
+
+### Image 3
+
+![DRAGON SPHERE](images/dragonsphere-3.jpg)
+
+**Description:** This was an amazing walk-up play I found. Ploppies will often cash out after a big win, so it’s not unheard of to find plays this good.
+
 ## How The Advantage Works
 
 DragonSphere features **wild spheres that move DOWN**:

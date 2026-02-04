@@ -28,6 +28,26 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/alien-heroes-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Alien Heroes](images/alien-heroes-1.jpg)
+
+### Image 2
+
+![Alien Heroes](images/alien-heroes-2.jpg)
+
+### Image 3
+
+![Alien Heroes](images/alien-heroes-3.jpg)
+
+**Description:** The Free Games round can swing big — it’s super volatile! Each extra matching symbol boosts your payout per spin. Fill the whole screen, and you’ll get a random multiplier added to your win.
+
 ## How The Advantage Works
 
 Alien Heroes features **scatter-based wins** with no paylines:

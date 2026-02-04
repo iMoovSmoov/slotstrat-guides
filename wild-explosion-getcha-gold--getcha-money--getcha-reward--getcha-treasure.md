@@ -43,6 +43,46 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/wild-explosion-getcha-gold--getcha-money--getcha-reward--getcha-treasure-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Wild Explosion: Get'Cha Gold / Get'Cha Money / Get'Cha Reward / Get'Cha Treasure](images/wild-explosion-getcha-gold--getcha-money--getcha-reward--getcha-treasure-1.jpg)
+
+### Image 2
+
+![Wild Explosion: Get'Cha Gold / Get'Cha Money / Get'Cha Reward / Get'Cha Treasure](images/wild-explosion-getcha-gold--getcha-money--getcha-reward--getcha-treasure-2.jpg)
+
+**Description:** The number next to the red wilds in reels two and four shows how many spins remain before the bomb may explode, releasing up to nine adjacent wilds.
+
+### Image 3
+
+![Wild Explosion: Get'Cha Gold / Get'Cha Money / Get'Cha Reward / Get'Cha Treasure](images/wild-explosion-getcha-gold--getcha-money--getcha-reward--getcha-treasure-3.jpg)
+
+**Description:** When the red wilds explode and add a bunch of wilds in a horizontal manner like this, you can get huge line hits.
+
+### Image 4
+
+![Wild Explosion: Get'Cha Gold / Get'Cha Money / Get'Cha Reward / Get'Cha Treasure](images/wild-explosion-getcha-gold--getcha-money--getcha-reward--getcha-treasure-4.jpg)
+
+**Description:** During the free games feature, the red wilds always explode when one reaches 0. Therefore, you can get big wins like this nearly 200x bonus.
+
+### Image 5
+
+![Wild Explosion: Get'Cha Gold / Get'Cha Money / Get'Cha Reward / Get'Cha Treasure](images/wild-explosion-getcha-gold--getcha-money--getcha-reward--getcha-treasure-5.jpg)
+
+**Description:** You only need to check the bet levels under the Wild Explosion bets on the bet pad.
+
+### Image 6
+
+![Wild Explosion: Get'Cha Gold / Get'Cha Money / Get'Cha Reward / Get'Cha Treasure](images/wild-explosion-getcha-gold--getcha-money--getcha-reward--getcha-treasure-6.jpg)
+
+**Description:** The older versions of the game have physical buttons on the bet pad, but they play the same.
+
 ## How The Advantage Works
 
 Wild Explosion features **red wilds with countdown timers that explode**:

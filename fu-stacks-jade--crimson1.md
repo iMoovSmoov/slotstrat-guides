@@ -38,6 +38,36 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/fu-stacks-jade--crimson1-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Fu Stacks: Jade / Crimson](images/fu-stacks-jade--crimson1-1.jpg)
+
+### Image 2
+
+![Fu Stacks: Jade / Crimson](images/fu-stacks-jade--crimson1-2.jpg)
+
+### Image 3
+
+![Fu Stacks: Jade / Crimson](images/fu-stacks-jade--crimson1-3.jpg)
+
+### Image 4
+
+![Fu Stacks: Jade / Crimson](images/fu-stacks-jade--crimson1-4.jpg)
+
+**Description:** There isn’t much value in an active wild in the fourth reel, especially without adequate coins in the first three reels.
+
+### Image 5
+
+![Fu Stacks: Jade / Crimson](images/fu-stacks-jade--crimson1-5.jpg)
+
+**Description:** The Crimson version plays the same for advantage purposes.
+
 ## How The Advantage Works
 
 Fu Stacks (Jade / Crimson) features **coin collection for matching symbol stacks**:

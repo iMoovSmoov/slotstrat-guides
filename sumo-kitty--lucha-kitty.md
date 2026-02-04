@@ -33,6 +33,30 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/sumo-kitty--lucha-kitty-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![SUMO KITTY / LUCHA KITTY](images/sumo-kitty--lucha-kitty-1.jpg)
+
+### Image 2
+
+![SUMO KITTY / LUCHA KITTY](images/sumo-kitty--lucha-kitty-2.jpg)
+
+**Description:** A $390 win on a $1.80 bet. This would have been a $7.80 win if a 60 credit coin had landed instead of a 3000 credit coin. So expect a lot of losses with the occasional big win.
+
+### Image 3
+
+![SUMO KITTY / LUCHA KITTY](images/sumo-kitty--lucha-kitty-3.jpg)
+
+### Image 4
+
+![SUMO KITTY / LUCHA KITTY](images/sumo-kitty--lucha-kitty-4.jpg)
+
 ## How The Advantage Works
 
 Sumo Kitty / Lucha Kitty features **persistent gold frames with credit multiplication**:

@@ -48,6 +48,52 @@ images: [
   ]
 ---
 
+## Thumbnail
+
+![Hero](images/imperial-fortunes--penguin-palace-1.jpg)
+
+## Gameplay Images
+
+### Image 1
+
+![Imperial Fortunes / Penguin Palace](images/imperial-fortunes--penguin-palace-1.jpg)
+
+### Image 2
+
+![Imperial Fortunes / Penguin Palace](images/imperial-fortunes--penguin-palace-2.jpg)
+
+**Description:** This is a solid play with a 2x coin collected about the third reel and another coin collected above the second reel.
+
+### Image 3
+
+![Imperial Fortunes / Penguin Palace](images/imperial-fortunes--penguin-palace-3.jpg)
+
+**Description:** I would play a setup like this for one spin because of the active 2x coin above reel four.
+
+### Image 4
+
+![Imperial Fortunes / Penguin Palace](images/imperial-fortunes--penguin-palace-4.jpg)
+
+**Description:** I would avoid setups like this in Red Silk/Aztec Chief, but this is a slightly +EV play due to the possibility of landing a 2x coin in one or more of the first three reels.
+
+### Image 5
+
+![Imperial Fortunes / Penguin Palace](images/imperial-fortunes--penguin-palace-5.jpg)
+
+**Description:** This paid out nearly 100x due to the 2x coin in reel two. The middle reel will be wild for one more spin.
+
+### Image 6
+
+![Imperial Fortunes / Penguin Palace](images/imperial-fortunes--penguin-palace-6.jpg)
+
+**Description:** You can get huge wins with the 2x multipliers.
+
+### Image 7
+
+![Imperial Fortunes / Penguin Palace](images/imperial-fortunes--penguin-palace-7.jpg)
+
+**Description:** Imperial Fortunes is a clone of Penguin Palace.
+
 ## How The Advantage Works
 
 Imperial Fortunes / Penguin Palace features **coin collection for wild reels with 2x multipliers**:
